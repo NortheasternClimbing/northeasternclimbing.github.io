@@ -1,0 +1,18 @@
+title: "Northeastern Climbing"
+author: "Northeastern Climbing"
+description: "Official website for climbing at Northeastern University."
+
+style:
+  body: 'white'
+  padding: 3
+  articles: 'stripe'
+  nav: "#222"
+  uppercase: true
+  margin: 0%
+  margincolor: "#f0f0f0"
+
+paginate: 10
+excerpt_separator: "\n\n\n"
+permalink: pretty
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+plugins: [jekyll-feed, jekyll-paginate]

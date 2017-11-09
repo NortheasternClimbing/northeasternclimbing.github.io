@@ -1,0 +1,7 @@
+pages:
+- title: Members
+  url: members
+- title: Contact
+  url: contact
+- title: Recreational Club
+  url: ../nrc

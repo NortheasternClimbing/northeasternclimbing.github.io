@@ -1,0 +1,7 @@
+pages:
+- title: page1
+  url: nrc/page1
+- title: page2
+  url: nrc/page2
+- title: Competitive Team
+  url: ../team
