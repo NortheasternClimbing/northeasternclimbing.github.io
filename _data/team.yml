@@ -1,7 +1,7 @@
 pages:
 - title: Members
-  url: members
+  url: /team/members
 - title: Contact
-  url: contact
+  url: /team/contact
 - title: Recreational Club
-  url: ../nrc
+  url: /nrc
