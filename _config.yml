@@ -11,7 +11,6 @@ style:
   margin: 0%
   margincolor: "#f0f0f0"
 
-paginate: 10
 excerpt_separator: "\n\n\n"
 permalink: pretty
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]

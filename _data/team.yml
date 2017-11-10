@@ -1,7 +1,25 @@
 pages:
+
 - title: Members
-  url: /team/members
+  url: /team/members/
+
+- title: Tryouts
+  url: /team/tryouts/
+
+- title: Results
+  url: /team/results/
+
+- title: Sponsors
+  url: /team/sponsors/
+
+- title: FAQ
+  url: /team/faq/
+
 - title: Contact
-  url: /team/contact
+  url: /team/contact/
+
+- title: Donate
+  url: /team/donate/
+
 - title: Recreational Club
-  url: /nrc
+  url: /nrc/

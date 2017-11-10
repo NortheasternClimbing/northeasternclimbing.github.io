@@ -7,11 +7,12 @@ layout: blank
     <li><a href="{{ site.baseurl }}/nrc">Home</a></li>
     {% for node in site.data.nrc.pages %}
       {% if node.title %}
-        <li><a href="{{ node.url | prepend: site.baseurl }}"{% if "/nrc{{page.url}}" == node.url %} class="selected"{% endif %}>{{ node.title }}</a></li>
+        <li><a href="{{ node.url | prepend: site.baseurl }}"{% if page.url == node.url %} class="selected"{% endif %}>{{ node.title }}</a></li>
       {% endif %}
     {% endfor %}
   </nav>
 </header>
 <main>
-  {{content}}
+  <h1>{{ page.title }}</h1>
+  {{ content }}
 </main>

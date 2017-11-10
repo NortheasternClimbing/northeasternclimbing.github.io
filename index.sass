@@ -19,7 +19,7 @@ body
   min-height: 100vh
 
 h1, h2, h3, h4, h5, h6
-  font-family: "Gentium Basic"
+  font-family: "New Baskerville"
   margin: 0.4em 0
 {% if site.style.uppercase %}
   letter-spacing: 2px
@@ -50,7 +50,7 @@ table
 footer a
   font-weight: 300
 
-article, body > header, body > footer
+article, body > header, body > footer, body > main
   padding: 1em calc(#{$padding * 10%} - #{$padding * 2.1em})
 
 body > header, body > footer
@@ -60,6 +60,9 @@ body > header, body > footer
 body > footer
   display: flex
   justify-content: space-between
+
+header a, nav li a, footer a
+  text-decoration: inherit
 
 .ghost
   padding: .4em .8em
