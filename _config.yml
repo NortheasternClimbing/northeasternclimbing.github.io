@@ -6,7 +6,7 @@ style:
   body: 'white'
   padding: 3
   articles: 'stripe'
-  nav: "#222"
+  nav: "#333"
   uppercase: true
   margin: 0%
   margincolor: "#f0f0f0"

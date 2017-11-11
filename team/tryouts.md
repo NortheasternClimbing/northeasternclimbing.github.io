@@ -11,22 +11,30 @@ go on a co-op, dialogue, or another reason.
 Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/)
 to stay in the loop on tryouts!
 
-## Frequently Asked Questions
+## Tryouts FAQ
 
 Q: If I make the team, do I have to join?
 
 A: Absolutely not, although you would love it 🙂
 
+---
+
 Q: Do I need to know how to belay?
 
 A: Nope!
+
+---
 
 Q: Can I try out if I’m a grad student?
 
 A: Yes!
 
+---
+
 Q: I’m not sure if I’ll make it, should I bother trying out!
 
 A: You should definitely tryout! It’s a great way to meet other enthusiastic climbers and you could always make it!
 
-E-mail NortheasternClimbing@gmail.com with any other questions, see you guys there!
+---
+
+E-mail *northeasternclimbing@gmail.com* with any other questions, see you guys there!
