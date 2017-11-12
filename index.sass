@@ -2,13 +2,12 @@
 ---
 
 $body: {{ site.style.body }}
-$nav: {{ site.style.nav }}
 $margin: {{ site.style.margin }}
 $margincolor: {{ site.style.margincolor }}
 $padding: {{ site.style.padding }}
 
 html
-  background-color: if($margin > 0%, $margincolor, $nav)
+  background-color: $margincolor
 
 body
   display: flex
@@ -54,8 +53,7 @@ article, body > header, body > footer, body > main
   padding: 1em calc(#{$padding * 10%} - #{$padding * 2.1em})
 
 body > header, body > footer
-  background-color: $nav
-  color: if(lightness($nav) > 50%, black, white)
+  color: white
 
 body > footer
   display: flex

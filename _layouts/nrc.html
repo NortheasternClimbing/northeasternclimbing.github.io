@@ -1,19 +1,10 @@
 ---
-layout: blank
+layout: tabbed
+title: Northeastern Recreational Climbing
+color: 004B4B
+titles: true
+home: true
+data: nrc
+url: /nrc/
 ---
-<style> body header, body footer { background-color: #004B4B; } </style>
-<header>
-  <h1><a href="{{ site.baseurl }}/nrc">Northeastern Recreational Climbing</a></h1>
-  <nav>
-    <li><a href="{{ site.baseurl }}/..">Home</a></li>
-    {% for node in site.data.nrc.pages %}
-      {% if node.title %}
-        <li><a href="{{ node.url | prepend: site.baseurl }}"{% if page.url == node.url %} class="selected"{% endif %}>{{ node.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </nav>
-</header>
-<main>
-  <h1>{{ page.title }}</h1>
-  {{ content }}
-</main>
+{{ content }}

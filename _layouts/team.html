@@ -1,20 +1,10 @@
 ---
-layout: blank
+layout: tabbed
+title: Northeastern Climbing Team
+color: 7D0000
+titles: true
+home: true
+data: team
+url: /team/
 ---
-<style> body header, body footer { background-color: #7D0000; } </style>
-<header>
-  <h1><a href="{{ site.baseurl }}/team">Northeastern Climbing Team</a></h1>
-  </div>
-  <nav>
-    <li><a href="{{ site.baseurl }}/..">Home</a></li>
-    {% for node in site.data.team.pages %}
-      {% if node.title %}
-        <li><a href="{{ node.url | prepend: site.baseurl }}"{% if page.url == node.url %} class="selected"{% endif %}>{{ node.title }}</a></li>
-      {% endif %}
-    {% endfor %}
-  </nav>
-</header>
-<main>
-  <h1>{{ page.title }}</h1>
-  {{ content }}
-</main>
+{{ content }}

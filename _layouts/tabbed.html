@@ -1,0 +1,30 @@
+---
+layout: blank
+---
+<style> body header, body footer { background-color: #{{ layout.color }}; } </style>
+
+<header>
+  <h1>
+    <a href="{{ site.baseurl }}{{ layout.url }}">{{ layout.title }}</a>
+  </h1>
+
+  <nav>
+    {% if layout.home %}
+      <li><a href="{{ site.baseurl }}{{ layout.url }}">Home</a></li>
+    {% endif %}
+
+    {% for tab in site.data[layout.data].pages %}
+      {% if tab.title %}
+        <li><a href="{{ tab.url | prepend: site.baseurl }}"{% if page.url == tab.url %} class="selected"{% endif %}>{{ tab.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </nav>
+</header>
+
+<main>
+  {% if layout.titles %}
+    <h1>{{ page.title }}</h1>
+  {% endif %}
+
+  {{ content }}
+</main>

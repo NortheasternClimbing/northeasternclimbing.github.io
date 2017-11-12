@@ -16,6 +16,8 @@ layout: team
   * Brynnydd Hamilton - 9th (Female)
   * Evan Goldfinger - 9th (Male)
 
+---
+
 ## 2017 Nationals - San Diego, CA
 
 * Team
@@ -26,10 +28,14 @@ layout: team
   * Alex Crist - 16th (Male Sport)
   * Annie Loduca - 20th (Female Speed)
 
+---
+
 ## 2017 Regionals - Concord, NH
 
 * Team
   * Overall - 1st
+
+---
 
 ## 2016 Nationals - San Diego, CA
 

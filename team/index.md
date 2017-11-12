@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: team
+nodes: [1, 2, 3]
 ---
 The Northeastern Climbing Team is the official competitive rock climbing team sanctioned through Northeastern University Club Sports. Founded in 2014, the team found immediate success by winning the New England Regional Championships and placing second at the National Championships in Melbourne, Florida. Due to increased popularity, the team now maintains a roster of 30 total athletes: 15 male and 15 female.
 
