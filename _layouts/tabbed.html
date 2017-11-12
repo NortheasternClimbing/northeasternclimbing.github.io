@@ -13,7 +13,7 @@ layout: blank
       <li><a href="{{ site.baseurl }}{{ layout.url }}">Home</a></li>
     {% endif %}
 
-    {% for tab in site.data[layout.data].pages %}
+    {% for tab in site.data[layout.data].tabs %}
       {% if tab.title %}
         <li><a href="{{ tab.url | prepend: site.baseurl }}"{% if page.url == tab.url %} class="selected"{% endif %}>{{ tab.title }}</a></li>
       {% endif %}

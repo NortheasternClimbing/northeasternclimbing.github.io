@@ -1,8 +1,9 @@
 ---
 layout: landing
 ---
-
 # Competitive Team
+
+![The Northeastern Climbing Team](/images/team_photo_1.jpg)
 
 The Northeastern Climbing Team is Northeastern's officially
 sanctioned club sports team for climbing at Northeastern.
@@ -16,6 +17,8 @@ a top ten team.
 [Click here](/team) for more information.
 
 # Recrational Club
+
+![The Northeastern Recreational Climbing club](/images/nrc.jpg)
 
 Northeastern Recreational Climbing (NRC) is an inclusive student organization dedicated to the growth of the climbing community on campus at the recreational level. It is open to all students regardless of grade, gender, skill level, or experience.
 

@@ -1,12 +1,11 @@
 title: "Northeastern Climbing"
-author: "Northeastern Climbing"
+author: "Northeastern Climbing Team"
 description: "Official website for climbing at Northeastern University."
 
 style:
   body: 'white'
   padding: 3
   articles: 'stripe'
-  nav: "#333"
   uppercase: true
   margin: 0%
   margincolor: "#f0f0f0"
