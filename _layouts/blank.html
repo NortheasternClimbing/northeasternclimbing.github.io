@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta charset="{{ site.encoding }}">
-<meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-<title>{% if page.title %} {{ page.title }} › {% endif %}{{ site.title }}</title>
+<title>{{ layout.title }}</title>
 <link rel="canonical" href="{{ page.url | prepend: site.baseurl | prepend: site.url}}">
 <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic,400italic" rel="stylesheet">
-<link href="//fonts.googleapis.com/css?family=Gentium+Basic:400,400italic" rel="stylesheet">
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link href="{{ '/basic.css' | prepend: site.baseurl }}" rel="stylesheet">
 <link href="{{ '/highlight.css' | prepend: site.baseurl }}" rel="stylesheet">
 <link href="{{ '/index.css' | prepend: site.baseurl }}" rel="stylesheet">

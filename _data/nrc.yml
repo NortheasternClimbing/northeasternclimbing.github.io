@@ -1,4 +1,10 @@
 pages:
 
+- title: Want to Join?
+  url: /nrc/want_to_join/
+
+- title: FAQ
+  url: /nrc/faq/
+
 - title: Competitive Team
   url: /team/

@@ -2,11 +2,18 @@
 title: Tryouts
 layout: team
 ---
+![Two climbers discuss beta](/images/beta.jpg)
+
 The climbing team hosts tryouts for the team in the Fall and in the
-Spring. In the Fall, all 30 of our rosters spots (15 male, 15 female)
-are open to everybody trying out. In the Spring, we host limited
-tryouts, only to fill the roster spots of teammates who are leaving to
-go on a co-op, dialogue, or another reason.
+Spring.
+
+In the Fall, all 30 of our rosters spots (15 male, 15 female)
+are open to everybody trying out. Climbers can choose to try out on
+boulders or on top rope.
+
+In the Spring, we host limited tryouts, only to fill the roster spots
+of teammates who are leaving to go on a co-op, dialogue, or another
+reason. These tryouts feature exclusively boulders.
 
 Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/)
 to stay in the loop on tryouts!

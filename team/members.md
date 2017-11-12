@@ -2,6 +2,8 @@
 title: Members
 layout: team
 ---
+![The Northeastern Climbing Team](/images/team_photo_2.jpg)
+
 1. Alex Crist (President)
 1. Izzy Baldwin (Vice President)
 1. Tom Cairns (Treasurer)

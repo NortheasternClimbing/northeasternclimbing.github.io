@@ -2,6 +2,7 @@
 title: Results
 layout: team
 ---
+![Locals 2017 podium group](/images/locals_podium_2017.jpg)
 
 ## 2017 Locals - Cambridge, MA
 
