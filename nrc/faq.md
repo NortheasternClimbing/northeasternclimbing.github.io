@@ -52,7 +52,7 @@ A: As a club, we do not. However, some members occasionally take trips on weeken
 
 Q: What do I need to climb at Rock Spot?
 
-A: All the gear that you would need can be rented, or you can bring your own. If you paid for gear rental, you have access to shoes, chalk, and a harness. Top-roping requires all three, whereas bouldering just needs the shoes and chalk. If you’ve never climbed there before, you also need to fill out their online waiver either prior to going or when you get there.
+A: All the gear that you would need can be rented, or you can bring your own. If you paid for gear rental, you have access to shoes, chalk, and a harness. Top-roping requires all three, whereas bouldering just needs the shoes and chalk. If you’ve never climbed there before, you also need to fill out their [online waiver](https://www.smartwaiver.com/w/59540a26dc59a/web/) either prior to going or when you get there.
 
 ---
 
