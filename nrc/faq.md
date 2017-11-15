@@ -67,7 +67,3 @@ Q: I’m a graduate student/part-time undergraduate student/College of Professio
 A: Yup! You can become an associate member which gets you all the same benefits as a regular member.
 
 ---
-
-Q: I don’t go to Northeastern but I still want to climb with you guys. Do I have any options?
-
-A: You can join using the associate member system (see previous question), but keep in mind you won’t be able to join the Facebook group (since it requires a husky email verification).
