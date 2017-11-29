@@ -26,7 +26,7 @@ A: The weekly classes we offer are optional. However if you’re new to climbing
 
 ---
 
-Q: I can’t make Mondays, Wednesdays, or Fridays, but I want to climb. Should I still sign up?
+Q: I can’t make Mondays or Wednesdays, but I want to climb. Should I still sign up?
 
 A: Since a membership with us gets you the discount at Rock Spot, it can still be worth it to join. There’s no guarantee that you’ll see fellow NRC members climbing on alternative days, but don’t be afraid to ask in the Facebook group if anyone wants to take a trips on the days that you can make it, even if we aren’t meeting. You can climb whenever you want, really. When, and if it is worth it, is up to you.
 
