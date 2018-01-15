@@ -9,6 +9,6 @@ So what are the benefits of paying the $10 club dues to join NRC?
 1. $10 off the monthly membership at [Rock Spot](http://southboston.rockspotclimbing.com/) for the next year (Student memberships are usually $54/month, club members’ are $44/month. If you need to rent gear/shoes, it is an additional $10/month for either plan).
 2. Discounts on the [CollegeOutside](https://www.collegeoutside.com/) online store
 
-If you’re interested in joining NRC, you can find our treasurer, Elissa, in the Shillman lobby on Monday nights from 6:00pm-6:30pm (look for a girl with a laptop and a cash box). If you have questions, check the FAQ below. If you don’t see your question, send us an email at nurecclimbing@gmail.com. Don’t forget to [join our Facebook group here](https://www.facebook.com/groups/nurecclimbing/), and follow the club on [Instagram](http://instagram.com/nurecclimbing) and [Twitter](http://twitter.com/nurecclimbing) (@nurecclimbing).
+If you’re interested in joining NRC, you can find our treasurer, Avery, in the Shillman lobby on Monday nights from 6:00pm-6:30pm (look for a girl with a cash box). If you have questions, check the FAQ below. If you don’t see your question, send us an email at nurecclimbing@gmail.com. Don’t forget to [join our Facebook group here](https://www.facebook.com/groups/nurecclimbing/), and follow the club on [Instagram](http://instagram.com/nurecclimbing) and [Twitter](http://twitter.com/nurecclimbing) (@nurecclimbing).
 
 We look forward to climbing with you soon!
