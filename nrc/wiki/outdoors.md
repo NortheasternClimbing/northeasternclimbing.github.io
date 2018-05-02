@@ -1,5 +1,5 @@
 ---
-title: Wiki - Outdoors
+title: Outdoors - Wiki
 layout: nrc
 ---
 
