@@ -15,7 +15,7 @@ Climbing outdoors is tons of fun and very rewarding, but comes with some very di
 ## What to Bring
 It's generally good to bring your own gear on outdoor trips, however if you need access to some gear or equipment that you don't have, you may be able to rent it from the [NUHOC Gear Locker](https://web.northeastern.edu/nuhoc/?page_id=39). NUHOC is the outing club on campus, and has a collection of gear such as climbing shoes, rope, crash pads, and more that NUHOC members can utilize. Though you need to be a NUHOC member to get gear, it may be worth it if it's gear that you need.
 
-You can learn more about all the gear mentioned here on the [Gear](gear) wiki page.
+You can learn more about all the gear mentioned here on the [Gear](../gear) wiki page.
 
 ### Bouldering
 - Climbing shoes
@@ -29,6 +29,7 @@ I think I would be able to come up with an adequate list for this one but just i
 I'm not even sure we should be putting stuff in this area about trad, because the people that would be doing trad should know enough about climbing by then to research the gear they need and how to approach it safely. Idk.
 
 ## Outoor Locations Around Boston
+
 Location | Type of Climbing | Experience Level | Distance from NU | Accessability | Notes | Mountain Project Link
 ---------| -----------------|------------------|------------------|---------------|-------|----------------------
 Lincoln Woods | Bouldering | All skill levels | ~1 hr. | Commuter Rail, Car | Great beginners location due to proximity, accessibility, and wide range of bouldering grades | [Link](https://www.mountainproject.com/area/105913161/lincoln-woods)
