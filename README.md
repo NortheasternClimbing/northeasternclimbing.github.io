@@ -9,6 +9,7 @@ http://northeasternclimbing.github.io
 ## Project Structure
 
     northeasternclimbing.github.io/
+    │
     ├── _data/            Contains YML data accessible from pages and layouts
     │   ├── landing.yml   Data on tabs for landing page
     │   ├── nrc.yml       Data on tabs for NRC pages
