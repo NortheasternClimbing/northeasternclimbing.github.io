@@ -1,6 +1,6 @@
 # Northeastern Climbing Website
 
-> The official website for climbing at Northeastern. Uses Jekyll to serve content from easily editable markdown files 
+> The official website for climbing at Northeastern. Uses Jekyll to serve content from easily editable markdown files.
 
 ## Preview
 
