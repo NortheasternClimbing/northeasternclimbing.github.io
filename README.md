@@ -1,12 +1,12 @@
-# Northeastern Climbing Website
+# 🧗 Northeastern Climbing Website
 
 > The official website for climbing at Northeastern. Uses Jekyll to serve content from easily editable markdown files.
 
-## Preview
+## 🏔 Preview
 
 http://northeasternclimbing.github.io
 
-## Project Structure
+## 🏛 Project Structure
 
     northeasternclimbing.github.io/
     │
@@ -34,7 +34,7 @@ http://northeasternclimbing.github.io
     └── index.sass        Stylings for site
 
 
-## How to do Stuff
+## 🛰 How to do Stuff
 
 ### How do I edit a page?
 
@@ -53,7 +53,7 @@ directory's name will also become part of the URL (i.e.: /team/)
 
 - To edit a the tab bar, edit the data files in the `_data/` directory.
 
-## Local Developement
+## 🛠 Local Developement
 
 ### Requirements
 
@@ -73,7 +73,7 @@ directory's name will also become part of the URL (i.e.: /team/)
 - `bundle exec jekyll serve`
 - go to `localhost:4000`
 
-## Help
+## 💩 Help
 
 Feel free to reach out to Alex Crist at alexecrist@gmail.com for any
 questions.
