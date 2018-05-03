@@ -22,8 +22,8 @@ http://northeasternclimbing.github.io
     │   └── team.html     Layout for team pages. Inherits from tabbed.html
     │
     ├── _sass/            Contains stylings for the "contrast" theme. Generally
-    │                       don't edit this folder. Edit index.sass instead
-    |
+    │                     don't edit this folder. Edit index.sass instead
+    │
     ├── fonts/            Contains site's fonts
     ├── images/           Contains site's images
     ├── nrc/              Contains markdown files for all NRC pages
