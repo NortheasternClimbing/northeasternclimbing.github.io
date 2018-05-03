@@ -58,7 +58,7 @@ directory's name will also become part of the URL (i.e.: /team/)
 ### Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-- [Jekyll](https://jekyllrb.com/docs/installation/)
+- [jekyll](https://jekyllrb.com/docs/installation/)
 
 ### Cloning this Repository
 
