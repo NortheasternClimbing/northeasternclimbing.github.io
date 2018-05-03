@@ -55,7 +55,12 @@ directory's name will also become part of the URL (i.e.: /team/)
 
 ### Requirements
 
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Jekyll](https://jekyllrb.com/docs/installation/)
+
+### Cloning this Repository
+
+- `git clone https://github.com/NortheasternClimbing/northeasternclimbing.github.io.git`
 
 ### Installing Dependencies
 
@@ -64,6 +69,7 @@ directory's name will also become part of the URL (i.e.: /team/)
 ### Starting the Developement Server
 
 - `bundle exec jekyll serve`
+- go to `localhost:4000`
 
 ## Help
 
