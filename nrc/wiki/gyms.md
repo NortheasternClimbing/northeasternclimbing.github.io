@@ -10,6 +10,6 @@ Local Climbing Gyms | Membership | Avg. Travel Time | Accessible by | Pros | Con
 [Central Rock Cambridge](https://centralrockgym.com/cambridge/) | $75/mo | ~30 mins | Car, T, Bike | Best bouldering gym and great training facility, many pros can be seen training here | Farther away and more expensive.
 [Central Rock Watertown](https://centralrockgym.com/watertown/) | $75/mo | ~30 mins | Car | Great training, lead, and bouldering make it overall probably the nicest gym in the area | More expensive and difficult/impossible to get to without a car. Less of an NEU community
 [Central Rock Randolph](https://centralrockgym.com/randolph/) | $65/mo | ~45 mins | Car | Newest gym, brand new walls and training facility, big lead/boulder areas | Very far away, inaccessible by anything other than car
-[Brooklyn Boulders](https://brooklynboulders.com/somerville/) | $135/mo | ~25 mins by car, ~45 min by transit | Car, T+Bus | **I don't know enough about this place to give pros** | Very expensive, hard to get to without a car. **I don't know enough about this place to give more cons**.
+[Brooklyn Boulders Somerville](https://brooklynboulders.com/somerville/) | $135/mo | ~25 mins by car, ~45 min by transit | Car, T+Bus | **I don't know enough about this place to give pros** | Very expensive, hard to get to without a car. **I don't know enough about this place to give more cons**.
 
 *Memberships based on student pricing. There may be further deals/specials available for each gym. Prices may be inaccurate as gyms change them over time. Be sure to double check.*
