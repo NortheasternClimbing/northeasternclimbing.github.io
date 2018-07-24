@@ -6,16 +6,17 @@ layout: nrc
 ## Philosophy
 Climbing outdoors is tons of fun and very rewarding, but comes with some very different etiquette to gym climbing. Here are a few things to keep in mind:
 - Leave no trace - Make sure all trash and personal items are picked up and taken with you until you find some trash receptacle. Same goes for chalk spills.
-- There are no bathrooms - It's best to just go before you go, but it is also wise to see what rules are in place for when nature calls in the particular location you're in. 
+- There are no bathrooms - It's best to just go before you go, but it is also wise to see what rules are in place for when nature calls in the particular location you're in. Go prepared.
 - Don't blast your music - People often go to these places to enjoy the nature, and blaring music disturbs the peace. 
 - Check the rules of the location - When it comes to gear, see what sort of things you can and can't do when it comes to using your gear.
+- Stick to established paths were possible - Between erosion and ruining patches of vegetation, do your best to stick to the trails.
 - Don't overcrowd - Going with a large group of people can be tons of fun, but sometimes it can be inappropriate.
 - Keep your wits about you - Climbing is dangerous, especially outside. Spot your friends, pad well, inspect your gear, check for unsafe landings... Just be smart.
 
 ## What to Bring
 It's generally good to bring your own gear on outdoor trips, however if you need access to some gear or equipment that you don't have, you may be able to rent it from the [NUHOC Gear Locker](https://web.northeastern.edu/nuhoc/?page_id=39). NUHOC is the outing club on campus, and has a collection of gear such as climbing shoes, rope, crash pads, and more that NUHOC members can utilize. Though you need to be a NUHOC member to get gear, it may be worth it if it's gear that you need.
 
-You can learn more about all the gear mentioned here on the [Gear](../gear) wiki page.
+You can learn more about all the gear mentioned here on the [Gear](../gear) wiki page. Also, don't forget the essentials like a water bottle, flashlight/headlamp, first aid kit, and adequate layers if it's going to be a chilly day.
 
 ### Bouldering
 - Climbing shoes
@@ -23,10 +24,10 @@ You can learn more about all the gear mentioned here on the [Gear](../gear) wiki
 - Several crash pads: The number depends on the sorts of climbs you may be doing. Often times it is not adequate to only have one pad, and some longer climbs require a lot. Only do climbs that you can safely pad all potential landing zones.
 
 ### Sport
-I think I would be able to come up with an adequate list for this one but just in case I wouldn't mind some help.
+TODO: I think I would be able to come up with an adequate list for this one but just in case I wouldn't mind some help.
 
 ### Trad
-I'm not even sure we should be putting stuff in this area about trad, because the people that would be doing trad should know enough about climbing by then to research the gear they need and how to approach it safely. Idk.
+TODO: I'm not even sure we should be putting stuff in this area about trad, because the people that would be doing trad should know enough about climbing by then to research the gear they need and how to approach it safely. Idk.
 
 ## Outoor Locations Around Boston
 
