@@ -3,6 +3,15 @@ title: Shoes - Wiki
 layout: nrc
 ---
 
+## Beginner
+
+Shoe | Description | Velcro/Lace | Price | Pros | Cons | Comments
+-----|-------------|-------------|-------|------|------|---------
+Evolv Defy | Great value shoe, one of the top selling in the country. Sensitive, flat, and comfy. | Velcro | $89 | Comfortable all-day-long fit, breaks in fast, sensitive, good heel-hooking, great value, nice look | Loose fit, toes curl up out-of-the-box wears out fast, not best for extreme edging | A great shoe for beginners or those looking for a dedicated gym climbing shoe.
+La Sportiva Tarantulace | Mostly flat, but subtly downturned shape that is comfortable, crosses over to any style of climbing, and still provides impressive performance. | Lace | $80 | Inexpensive, leather upper, comfortable fit | Not super specialized or technical | These were my first pair of shoes and they lasted me a solid year. Good starters since they are cheap and better than rentals, then you will probably want to move on.
+La Sportiva Finale | Comfortable indoor and outdoor shoe, decent all around | Lace | $99 | Comfortable, sticky rubber, excellent introductory shoe. Can wear them for hours. | Not super durable, and low precision. I've also found that the orange version stains my heels orange. | These are a lot of people's first shoes, and for good reason. They're pretty great cheap all-around shoes but are certainly geared more towards beginners. 
+La Sportiva Nago | An all around lace-up shoe designed for comfort and performance.  | Lace | $99 | Slightly more expensive, better version of the Tarantulace for gym/all-around climbing, focus on vertical/slab | Turn feet red, not specialized/technical | Another great beginner pair as they last a while, especially for the price.
+
 ## Bouldering
 
 Shoe | Description | Velcro/Lace | Price | Pros | Cons | Comments
@@ -32,14 +41,5 @@ Shoe | Description | Velcro/Lace | Price | Pros | Cons | Comments
 -----|-------------|-------------|-------|------|------|---------
 Five Ten Anasazi Lace-Up | Low-profile, synthetic, comfortable, and flat toe profile | Lace | $150 | Can wear them all day, great for cracks, edges, but also maintain performance on boulders/sport climbing | Bad for overhanging bouldering problems | I had these shoes and loved them, they fit perfectly and since they are synthetic maintain their shape well. Along with the Quantums, these are my favorite shoes for all-around climbing. **There are many other versions of the Anasazi's (Blanco, Guide, etc.) and they are all great, I have experience with these and they are generally considered the best all-arounders.
 Five Ten Moccasym | Slipper-like, comfortable, flexible, and highly sensitive shoe | Slip on | $125 | Cheap, very comfortable, and last a long time. Great indoors and out | Not as high performance and can stretch up to a size due to there being no lining | I know people who have worn these for over a year without having to replace them, they will do you well if you're looking for cheap, comfort, and ease of use.
-
-## Beginner
-
-Shoe | Description | Velcro/Lace | Price | Pros | Cons | Comments
------|-------------|-------------|-------|------|------|---------
-Evolv Defy | Great value shoe, one of the top selling in the country. Sensitive, flat, and comfy. | Velcro | $89 | Comfortable all-day-long fit, breaks in fast, sensitive, good heel-hooking, great value, nice look | Loose fit, toes curl up out-of-the-box wears out fast, not best for extreme edging | A great shoe for beginners or those looking for a dedicated gym climbing shoe.
-La Sportiva Tarantulace | Mostly flat, but subtly downturned shape that is comfortable, crosses over to any style of climbing, and still provides impressive performance. | Lace | $80 | Inexpensive, leather upper, comfortable fit | Not super specialized or technical | These were my first pair of shoes and they lasted me a solid year. Good starters since they are cheap and better than rentals, then you will probably want to move on.
-La Sportiva Finale | Comfortable indoor and outdoor shoe, decent all around | Lace | $99 | Comfortable, sticky rubber, excellent introductory shoe. Can wear them for hours. | Not super durable, and low precision. I've also found that the orange version stains my heels orange. | These are a lot of people's first shoes, and for good reason. They're pretty great cheap all-around shoes but are certainly geared more towards beginners. 
-La Sportiva Nago | An all around lace-up shoe designed for comfort and performance.  | Lace | $99 | Slightly more expensive, better version of the Tarantulace for gym/all-around climbing, focus on vertical/slab | Turn feet red, not specialized/technical | Another great beginner pair as they last a while, especially for the price.
  
 *This is by no means an exhaustive list. There are many other shoes out there, and we emplore you to do your own research on some other brands and models. These are merely some common/well known selections*
