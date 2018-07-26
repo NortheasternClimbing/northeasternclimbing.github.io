@@ -7,7 +7,7 @@ If the word you're looking for is a piece of gear, head over to our [Gear](../ge
 
 Word | Meaning
 ---- | --------
-Aid | Gear used as a means of ascent or protection in a manner that it would not normally be used. This is sometimes frowned upon, and depending on who you're talking to some say it invalidates your ascent. Example: pulling on a quickdraw, or using specialized gear like ascenders
+Aid | Gear used as a means of ascent or protection in a manner that it would not normally be used. This is sometimes frowned upon, and depending on who you're talking to some say it invalidates your ascent. Example: pulling on a quickdraw (generally awful idea, don't do it), or using specialized gear like ascenders
 Ale Ale Ale | Venga Venga Venga
 Anchor | Usually at the top of the route, used to set up the rappel system or top rope.
 Approach | The trail or hike taken to get to the climb.
