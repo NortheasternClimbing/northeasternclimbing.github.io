@@ -34,7 +34,7 @@ A: Since a membership with us gets you the discount at Rock Spot, it can still b
 
 Q: What’s the best way to receive updates about the club?
 
-A: Requesting to join our email list is a surefire way to get all the most important and pertinent info about upcoming events and club affairs. However, our Facebook group (linked above) can be a hub of NRC and general climbing info like local competitions or member outings.
+A: Requesting to join our email list is a surefire way to get all the most important and pertinent info about upcoming events and club affairs. However, our [Facebook group](https://www.facebook.com/groups/nurecclimbing/) and [Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLWZkMjA4YjllYTRhM2U1YjcyNTE2ODBjMmYxOWJlZmIyMjQwMThhN2E5MTY3ZTM0MDQ0MWIyZmNkNWUzNTA5Njk) are the hubs of NRC and general climbing info like local competitions or member outings.
 
 ---
 
@@ -46,7 +46,7 @@ Every month, we will be hosting some climbing movie at the on-campus AfterHours 
 
 Q: Does the club ever climb outside?
 
-A: As a club, we do not. However, some members occasionally take trips on weekends to nearby parks like Lincoln Woods, Farley Ledges, Rumney, Pawtuckaway, and possibly others. If you want to get in on some of these outdoor trips, the safest bet is to join the Facebook group and watch for members posting invitations, as space is generally limited.
+A: As a club, we do not. However, some members occasionally take trips on weekends to nearby parks like Lincoln Woods, Farley Ledges, Rumney, Pawtuckaway, and others. If you want to get in on some of these outdoor trips, the safest bet is to join the [Facebook group](https://www.facebook.com/groups/nurecclimbing/) and [Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLWZkMjA4YjllYTRhM2U1YjcyNTE2ODBjMmYxOWJlZmIyMjQwMThhN2E5MTY3ZTM0MDQ0MWIyZmNkNWUzNTA5Njk) to watch for members posting invitations, as space is generally limited.
 
 ---
 
