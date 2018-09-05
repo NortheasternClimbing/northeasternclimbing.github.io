@@ -23,6 +23,9 @@ You can learn more about all the gear mentioned here on the [Gear](../gear) wiki
 - Chalk
 - Several crash pads: The number depends on the sorts of climbs you may be doing. Often times it is not adequate to only have one pad, and some longer climbs require a lot. Only do climbs that you can safely pad all potential landing zones.
 
+### Toprope
+COMING SOON
+
 ### Sport
 COMING SOON
 
