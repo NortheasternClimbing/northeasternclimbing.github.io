@@ -24,10 +24,14 @@ You can learn more about all the gear mentioned here on the [Gear](../gear) wiki
 - Several crash pads: The number depends on the sorts of climbs you may be doing. Often times it is not adequate to only have one pad, and some longer climbs require a lot. Only do climbs that you can safely pad all potential landing zones.
 
 ### Sport
-TODO: I think I would be able to come up with an adequate list for this one but just in case I wouldn't mind some help.
+COMING SOON
+
+[//]: # (I think I would be able to come up with an adequate list for this one but just in case I wouldn't mind some help.)
 
 ### Trad
-TODO: I'm not even sure we should be putting stuff in this area about trad, because the people that would be doing trad should know enough about climbing by then to research the gear they need and how to approach it safely. Idk.
+COMING SOON
+
+[//]: # (I'm not even sure we should be putting stuff in this area about trad, because the people that would be doing trad should know enough about climbing by then to research the gear they need and how to approach it safely. Idk.)
 
 ## Outoor Locations Around Boston
 
