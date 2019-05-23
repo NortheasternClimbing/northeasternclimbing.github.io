@@ -7,6 +7,8 @@ layout: team
 * Central Rock Gym
 * Five Ten
 * Petzl
-* Backcountry.com
+* Prana
+* College Outside
+* Friction Labs
 
 *If you are interested in becoming an official sponsor of the Northeastern Climbing Team, please use our contact form.*
