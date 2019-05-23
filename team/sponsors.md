@@ -3,6 +3,8 @@ title: Sponsors
 layout: team
 ---
 
+![The Northeastern Climbing Team Sponsors](/images/sponsors.png)
+
 * Northeastern University Club Sports
 * Central Rock Gym
 * Five Ten
