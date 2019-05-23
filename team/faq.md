@@ -4,7 +4,7 @@ layout: team
 ---
 Q: How many people are on the team?
 
-A: 30 climbers consisting of 15 women and 15 men.
+A: 24 climbers consisting of 12 women and 12 men.
 
 ---
 
@@ -25,8 +25,8 @@ A: Yes!
 Q: What format are tryouts?
 
 A: Climbers can choose between our two tryout formats. We have a
-flash-format (one attempt per climb) top-rope competition and a
-redpoint-format (multiple attempts) bouldering competition.
+redpoint-format (multiple attempts) ropes competition and a
+redpoint-format bouldering competition.
 
 ---
 
@@ -46,5 +46,5 @@ Dark Horse and Blackout Boulder Brawl.
 
 Q: How often does the team practice?
 
-A: We have four practices per week. Team members are expected to
-attend two practices per week.
+A: We have four practices per week on Monday, Tuesday, Wednesday, and Thursday. 
+Team members are expected to attend at least two practices per week.
