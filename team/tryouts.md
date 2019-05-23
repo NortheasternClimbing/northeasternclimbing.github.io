@@ -7,9 +7,9 @@ layout: team
 The climbing team hosts tryouts for the team in the Fall and in the
 Spring.
 
-In the Fall, all 30 of our rosters spots (15 male, 15 female)
+In the Fall, all 24 of our rosters spots (12 male, 12 female)
 are open to everybody trying out. Climbers can choose to try out on
-boulders or on top rope.
+boulders or on ropes.
 
 In the Spring, we host limited tryouts, only to fill the roster spots
 of teammates who are leaving to go on a co-op, dialogue, or another
