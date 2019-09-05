@@ -6,4 +6,6 @@ layout: nrc
 
 Northeastern Recreational Climbing (NRC) is an inclusive student organization dedicated to the growth of the climbing community on campus at the recreational level. It is open to all students regardless of grade, gender, skill level, or experience.
 
+[Click Here](http://eepurl.com/dLPYEA) to join our email list!
+
 The club meets on **Mondays and Wednesdays** at **Ruggles Station** at **6:30pm**, right near the pillar across from the Charlie Ticket station. We then take the T over to **[Rock Spot Climbing Gym](https://goo.gl/maps/G2KzuLoaj412)** to climb from **7pm** onwards (feel free to bike there if you want!). NRC also hosts movie nights on campus once per month! (Some of our members do climb on days other than Mon and Wed, so ask around and see if people climb on days that would work better for you)
