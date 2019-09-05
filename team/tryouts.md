@@ -14,11 +14,14 @@ trying out on ropes or boulders.
 
 Application Process
 1. Register with CRG to attend one of the four tryout dates at this link
+
    <https://centralrockgym.com/randolph/climbing/north-eastern-tryouts/>
 2. Fill out a CRG gym waiver if you've never climbed at CRG Randolph before
+
    <https://centralrockgym.com/randolph/gyms-waiver/>
 3. Fill out a DoSportsEasy application by going to the below link,
 and selecting "Rock Climbing"
+
    <https://web.northeastern.edu/clubsports/register/>
 4. Show up to Renaissance Garage 1 hour BEFORE the listed start time
 (so if you're going to a 7pm tryout, show up at Renaissance at 6pm)
