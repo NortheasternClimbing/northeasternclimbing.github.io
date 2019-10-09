@@ -6,7 +6,7 @@ You can always reach out to us with any questions, comments, or concerns by send
 
 [Click Here](http://eepurl.com/dLPYEA) to join our email list
 
-[Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLWZkMjA4YjllYTRhM2U1YjcyNTE2ODBjMmYxOWJlZmIyMjQwMThhN2E5MTY3ZTM0MDQ0MWIyZmNkNWUzNTA5Njk)
+[Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLTU1ZGIzZDIyZDM2NTY1YmJmZjQ4NTU3ZWM1NTdjNGVmNmRjN2EzNGY2YjhmODUxMTZhOTJhMjU1NGQ1MjY3ZjM)
 
 [Facebook Group](https://www.facebook.com/groups/nurecclimbing/)
 
