@@ -1,7 +1,9 @@
 ---
-title: Northeastern Climbing Team’s Open Letter to Black Communities
+title: Northeastern Climbing Team’s Commitment to Diversity and Inclusion
 layout: team
 ---
+
+6/9/2020
 
 We are deeply saddened by the wrongful deaths of George Floyd, Breonna Taylor, Ahmaud Arbery,
 Tony McDade, and countless other Black Americans who have died at the hands of law enforcement.
