@@ -13,6 +13,6 @@ The team currently trains at the Central Rock Climbing Gyms in Watertown, Randol
 
 In addition to competition-related endeavors, Northeastern Climbing Team members give back to the community through volunteer events and outreach. The team has partnered up with organizations such as OneSummit, Camp Casco, the Access Fund, and the HelpHOPELive Foundation to facilitate a positive impact in the community, and is continually pursuing ways to do so on the local and global scale.
 
-Team members also excel in the academic realm, with awards in research and co-op placements at top employers such as Google, Apple, CERN, SpaceX, NASA, Draper, GE, Philips, Raytheon, and more.
+Team members also excel in the academic realm from all of the colleges at NEU including the college of engineering, arts & humanities, science, business, and health sciences, with awards in research and co-op placements at top employers from a wide variety of fields.
 
 If you have any further questions, please contact us at *northeasternclimbing@gmail.com* or visit our contact page.
