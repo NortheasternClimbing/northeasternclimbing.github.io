@@ -14,4 +14,4 @@ Although we won't be climbing as a club this semester, we still have plenty of t
 
 [**Click Here**](https://drive.google.com/file/d/1dA9a0_oCMd9FcoP-WjAm9Bqzk23Q7xAr/view?usp=sharing) to view our Fall 2020 welcome presentation.
 
-[**Click Here**](https://forms.gle/3HYubxyaASi9YLNy5) if you want to check out this semester's merch and put in a purchase request! Please only submit the form if you are sure you are going to buy something. This form will close at the end of September.
+[**Click Here**](https://forms.gle/3HYubxyaASi9YLNy5) if you want to check out this semester's NRC merch and put in a purchase request! Please only submit the form if you are sure you are going to buy something. This form will close at the end of September.
