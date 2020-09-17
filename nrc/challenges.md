@@ -18,7 +18,7 @@ To participate:
 
 Much like the SOTW, if you share a climbing fail clip with us, you might just be featured on our Instagram as well! You'll also have a chance to win a prize at the end of the semester for best BOTW.
 
-# Photo cContest
+# Photo Contest
 
 If you fancy yourself a photographer, now's the chance to let people know! Feel free to share any photos you take that are climbing themed for a chance to be featured on our Instagram and for a chance to win a prize at the end of the semester for sending us the best photo!
 
