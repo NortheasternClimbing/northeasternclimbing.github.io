@@ -2,7 +2,7 @@
 title: Want to Join?
 layout: nrc
 ---
-You don’t have to be a gym member or a club member to climb with us, if you just want to give climbing a shot or can't climb regularly, come checkout our [Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLTU1ZGIzZDIyZDM2NTY1YmJmZjQ4NTU3ZWM1NTdjNGVmNmRjN2EzNGY2YjhmODUxMTZhOTJhMjU1NGQ1MjY3ZjM) community! You'll definitely be able to find someone with a spare Rockspot guest-pass (a discounted $10 day pass with gear included) willing to share it, just make sure you are observing the Northeastern health guidelines for COVID-19 safety (whatever they might be).
+You don’t have to be a gym member or a club member to climb with us, if you just want to give climbing a shot or can't climb regularly, come checkout our [Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLTU1ZGIzZDIyZDM2NTY1YmJmZjQ4NTU3ZWM1NTdjNGVmNmRjN2EzNGY2YjhmODUxMTZhOTJhMjU1NGQ1MjY3ZjM) community! You'll definitely be able to find someone with a spare Rockspot guest-pass (a discounted $10 day pass with gear included) willing to share it, just make sure you are observing the Northeastern health guidelines for COVID-19 safety (latest info [here](https://news.northeastern.edu/coronavirus/reopening/frequently-asked-questions/)).
 
 However, if you're sure you want to grab a climbing gym membership, make sure you grab a membership to NRC as well; it's only $10 for the whole year! Now you may be wondering what the benefits of paying the $10 club dues to join NRC are:
 

@@ -9,7 +9,7 @@ layout: nrc
 
 Q: Is the club still climbing regularly?
 
-A: We will not be officially hosting any regular club climbing sessions this semester, but we always have members who are eager to climb. However, with that said, we still strongly encourage healthy social-distancing practices and to follow [Northeastern health and safety guidelines](https://news.northeastern.edu/coronavirus/university-messages/sanctions-for-unsafe-gathering/). 
+A: We will not be officially hosting any regular club climbing sessions this semester, but we always have members who are eager to climb. With that said, we still strongly encourage healthy social-distancing practices and to follow [Northeastern health and safety guidelines](https://news.northeastern.edu/coronavirus/university-messages/sanctions-for-unsafe-gathering/). 
 
 ---
 
