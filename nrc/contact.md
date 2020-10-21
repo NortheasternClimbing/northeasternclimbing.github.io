@@ -15,3 +15,5 @@ You can always reach out to us with any questions, comments, or concerns by send
 [OrgSync](https://orgsync.com/148139/chapter)
 
 [Engage](https://neu.campuslabs.com/engage/organization/northeastern-rec-climbing)
+
+[Youtube](https://www.youtube.com/channel/UChBnlZ2JB83uiv6PnR765Xw/featured)

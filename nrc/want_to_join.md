@@ -10,6 +10,6 @@ However, if you're sure you want to grab a climbing gym membership, make sure yo
 2. Discounts on the [CollegeOutside](https://www.collegeoutside.com/) online store. They sell tons of outdoor gear for climbing and backpacking!
 3. [Free gear rental!](https://northeasternclimbing.github.io/nrc/gear_rental/)
 
-If you’re interested in joining NRC, you can fill out our form and pay for a membership [**here**](https://docs.google.com/forms/d/e/1FAIpQLSevD7mhc_lSGWIpyQWPArBjbvVORSZJ8m_nFgbJqhbhIQPr9g/viewform?usp=sf_link). If you have any questions, check out our [FAQ page](https://northeasternclimbing.github.io/nrc/faq/), and if we haven't answered your question there, head over to the [Contact page](https://northeasternclimbing.github.io/nrc/contact/) to see all the ways you can get in touch with us.
+If you’re interested in joining NRC, you can fill out our form and pay for a membership [here](https://docs.google.com/forms/d/e/1FAIpQLSevD7mhc_lSGWIpyQWPArBjbvVORSZJ8m_nFgbJqhbhIQPr9g/viewform?usp=sf_link). If you have any questions, check out our [FAQ page](https://northeasternclimbing.github.io/nrc/faq/), and if we haven't answered your question there, head over to the [Contact page](https://northeasternclimbing.github.io/nrc/contact/) to see all the ways you can get in touch with us.
 
 We look forward to climbing with you soon!
