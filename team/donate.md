@@ -10,6 +10,6 @@ The Northeastern Climbing Team is a 501(c)(3) tax deductible organization. All d
 
 ## To Donate
 
-1. Donate [here](https://giving.northeastern.edu/live/profiles/116-club-rock-climbing)
+You can donate through Northeastern Giving by clicking [here](https://giving.northeastern.edu/live/profiles/116-club-rock-climbing)
 
 Thank you for your support and go Huskies!
