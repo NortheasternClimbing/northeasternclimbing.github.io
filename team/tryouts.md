@@ -71,9 +71,9 @@ A: Yes!
 
 ---
 
-Q: I’m not sure if I’ll make it, should I bother trying out!
+Q: I’m not sure if I’ll make it, should I bother trying out?
 
-A: You should definitely tryout! It’s a great way to meet other enthusiastic climbers and you could always make it!
+A: You should definitely try out! It’s a great way to meet other enthusiastic climbers and an awesome opportunity to gain experience on competition-style climbs!
 
 ---
 
