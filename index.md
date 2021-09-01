@@ -16,7 +16,7 @@ a top ten team.
 
 [Click here](/team) for more information.
 
-# Recrational Club
+# Recreational Club
 
 ![The Northeastern Recreational Climbing club](/images/nrc.jpg)
 
