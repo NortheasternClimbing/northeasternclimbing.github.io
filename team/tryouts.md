@@ -7,7 +7,7 @@ layout: team
 ## 2019 Fall Tryouts Sign Up Info
 
 Come try out for the Northeastern Club Rock Climbing Team!
-We are a competitive team that trains in order to compete at the national level.
+We are a competitive team that trains and competes at both the local and national level.
 
 Tryouts will be scored in a redpoint format. Climbers have the option of
 trying out on ropes or boulders.
@@ -40,16 +40,16 @@ Sunday September 22nd : 10AM – 1PM
 The climbing team hosts tryouts for the team in the Fall and in the
 Spring.
 
-In the Fall, all 24 of our rosters spots (12 male, 12 female)
+In the fall, all 24 of our rosters spots (12 male, 12 female)
 are open to everybody trying out. Climbers can choose to try out on
 boulders or on ropes.
 
-In the Spring, we host limited tryouts, only to fill the roster spots
-of teammates who are leaving to go on a co-op, dialogue, or another
-reason. These tryouts feature exclusively boulders.
+In the spring, we host limited tryouts, only to fill the roster spots
+of teammates who have graduated or are leaving to go on a co-op or dialogue. 
+These tryouts feature exclusively boulders.
 
-Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/)
-to stay in the loop on tryouts!
+Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/) and [Instagram](https://www.instagram.com/northeasternclimbing/)
+to stay in the loop about tryouts!
 
 ## Tryouts FAQ
 
