@@ -2,7 +2,7 @@
 title: Members
 layout: team
 ---
-![The Northeastern Climbing Team](/images/team_photo_2.jpg)
+![IMG_6236](https://user-images.githubusercontent.com/82841102/131922028-c328dddb-c50d-4c47-886d-a583982b2ac1.JPG)
 
 2021-2022 Executive Board
 1. Miya Iwashita (President)
