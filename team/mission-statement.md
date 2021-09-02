@@ -1,5 +1,5 @@
 ---
-title: Northeastern Climbing Team Mission Statement
+title: Mission Statement
 layout: team
 ---
 
