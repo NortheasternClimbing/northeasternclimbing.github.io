@@ -10,10 +10,8 @@ A: Our team consists of 24 climbers, 12 women and 12 men.
 
 Q: How do I tryout?
 
-A: Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/) 
-and [Instagram](https://www.instagram.com/northeasternclimbing/)
-for information on tryouts! We host our main tryouts in the fall
-(mid-late September) and limited tryouts early in the spring.
+A: Tryout details can be found [here](https://northeasternclimbing.github.io/team/tryouts/). 
+We host our main tryouts in the fall (mid-late September) and limited tryouts early in the spring.
 
 ---
 
