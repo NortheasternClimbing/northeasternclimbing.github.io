@@ -12,28 +12,26 @@ We are a competitive team that trains and competes at both the local and nationa
 Tryouts will be scored in a redpoint format. Climbers have the option of
 trying out on ropes or boulders.
 
-Application Process
-1. Register with CRG to attend one of the four tryout dates at this link
+**Tryout Dates:**       
 
+Thursday, September 23rd : 7PM – 9PM (Bouldering)  
+Friday, September 24th : 7PM – 9PM (Ropes)   
+Saturday, September 25th : 4PM – 6PM (Bouldering)   
+Sunday, September 26th : 12PM – 2PM (Ropes)   
+
+**Registration Process**
+1. Register with CRG to attend one of the four tryout dates at this link
    <https://centralrockgym.com/randolph/climbing/north-eastern-tryouts/>
 2. Fill out a CRG gym waiver if you've never climbed at CRG Randolph before
-
    <https://centralrockgym.com/randolph/gyms-waiver/>
 3. Fill out a DoSportsEasy application by going to the below link,
 and selecting "Rock Climbing"
-
    <https://web.northeastern.edu/clubsports/register/>
 4. Show up to Renaissance Garage 1 hour BEFORE the listed start time
 (so if you're going to a 7pm tryout, show up at Renaissance at 6pm)
 with your $10 cash tryout fee in hand!
 
-Questions? Message us!
-
-Tryouts will take place:   
-Thursday, September 23rd : 7PM – 9PM (Bouldering)  
-Friday, September 24th : 7PM – 9PM (Ropes)   
-Saturday, September 25th : 4PM – 6PM (Bouldering)   
-Sunday, September 26th : 12PM – 2PM (Ropes)    
+Questions? Reach out to us via [Instagram](https://www.instagram.com/northeasternclimbing/) or email (northeasternclimbing@gmail.com)
 
 ## General Info
 
