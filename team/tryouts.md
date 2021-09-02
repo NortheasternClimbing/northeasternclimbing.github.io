@@ -4,7 +4,7 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2019 Fall Tryouts Sign Up Info
+## 2021 Fall Tryouts Sign Up Info
 
 Come try out for the Northeastern Club Rock Climbing Team!
 We are a competitive team that trains and competes at both the local and national level.
@@ -29,11 +29,11 @@ with your $10 cash tryout fee in hand!
 
 Questions? Message us!
 
-Tryouts will take place:
-Thursday September 19th : 7PM – 10PM
-Friday September 20th : 7PM – 10PM
-Saturday September 21st : 10AM – 1PM
-Sunday September 22nd : 10AM – 1PM
+Tryouts will take place:   
+Thursday, September 23rd : 7PM – 9PM (Bouldering)  
+Friday, September 24th : 7PM – 9PM (Ropes)   
+Saturday, September 25th : 4PM – 6PM (Bouldering)   
+Sunday, September 26th : 12PM – 2PM (Ropes)    
 
 ## General Info
 
