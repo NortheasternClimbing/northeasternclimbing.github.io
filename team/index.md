@@ -3,7 +3,7 @@ title: Home
 layout: team
 nodes: [1, 2, 3]
 ---
-![The Northeastern Climbing Team](/images/team_photo_1.jpg)
+![IMG_5343](https://user-images.githubusercontent.com/82841102/131921724-ea7cc0dc-9dac-40a4-9a42-d4583f18fbe2.JPG)
 
 The Northeastern Climbing Team is the official competitive rock climbing team sanctioned through Northeastern University Club Sports.
 
