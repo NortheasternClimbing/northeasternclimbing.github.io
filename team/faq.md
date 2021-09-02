@@ -4,27 +4,28 @@ layout: team
 ---
 Q: How many people are on the team?
 
-A: 24 climbers consisting of 12 women and 12 men.
+A: Our team consists of 24 climbers, 12 women and 12 men.
 
 ---
 
 Q: How do I tryout?
 
-A: Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/)
-for information on tryouts! We host our main tryouts in the Fall
-(mid-late September) and limited tryouts early in the Spring.
+A: Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/) 
+and [Instagram](https://www.instagram.com/northeasternclimbing/)
+for information on tryouts! We host our main tryouts in the fall
+(mid-late September) and limited tryouts early in the spring.
 
 ---
 
-Q: Can grad students tryout?
+Q: Can graduate students tryout?
 
-A: Yes!
+A: Yes, we love our grad student team members!
 
 ---
 
 Q: What format are tryouts?
 
-A: Climbers can choose between our two tryout formats. We have a
+A: Climbers can choose between two tryout formats. We have a
 redpoint-format (multiple attempts) ropes competition and a
 redpoint-format bouldering competition.
 
@@ -32,7 +33,7 @@ redpoint-format bouldering competition.
 
 Q: Where do you practice?
 
-A: We practice at CRG’s gyms in Watertown, Cambridge, and Randolph.
+A: We practice at Central Rock Gym (CRG)’s gyms in Watertown, Cambridge, and Randolph.
 
 ---
 
@@ -46,5 +47,6 @@ Dark Horse and Blackout Boulder Brawl.
 
 Q: How often does the team practice?
 
-A: We have four practices per week on Monday, Tuesday, Wednesday, and Thursday. 
-Team members are expected to attend at least two practices per week.
+A: We plan to have 3-4 practices per week. Exact dates have not yet 
+been set for the 2021-2022 season. Potential members should be prepared 
+to attend at least 2-3 practices per week.
