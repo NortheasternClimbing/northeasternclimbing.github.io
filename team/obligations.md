@@ -26,4 +26,4 @@ and we expect team members to be supportive and help spread the word!
 | A supportive and inclusive climbing team family | Priceless |
 *Don't pull out your calculator, that's $1,490*
 
-Plus, as a member of the team, you get access to our exclusive deals, including discounts on **Five Ten/Addidas**, **prAna**, and **Friction Labs** as well as a College Outside membership, which gets you a bunch of dope discounts on various outdoorsing materials.
+Plus, as a member of the team, you get access to our exclusive deals, including discounts on **Five Ten/Addidas**, **prAna**, and **Friction Labs** as well as a **College Outside** membership, which gets you a bunch of dope discounts on various outdoorsing materials.
