@@ -4,13 +4,30 @@ layout: team
 ---
 ![IMG_6236](https://user-images.githubusercontent.com/82841102/131922028-c328dddb-c50d-4c47-886d-a583982b2ac1.JPG)
 
-2021-2022 Executive Board
-1. Miya Iwashita (President)
-1. Jackie Daniel (Vice President)
-1. Michael Fitzgibbons (Treasurer)
-1. Anja Clark (Captain)
-1. Theo Hamm (Captain)
-1. Olivia Leighton (Sports Information Director)
-1. Tarne Lamp (JAA)
+We have a roster of 12 men and 12 women. Here is our team for the 2021-2022 season:
 
-We will be holding tryouts in fall to fill the remaining spots of our 24-person roster for the 2021-2022 season.
+Aidan Matrician  
+Alex Plotnikoff  
+Anja Clark (Captain)  
+Brynn Thomas  
+Cayla Chow  
+Drew Baldwin  
+Dylan Dhindsa  
+Elana von der Heyden  
+Ezra Howe  
+Ian Cummings  
+Jack Czenszak  
+Jackie Daniel (Vice President)  
+Jim Howe  
+Kaitlyn Guay  
+Liam Scott  
+Michael Fitzgibbons (Treasurer)  
+Miya Iwashita (President)  
+Nina Paprocki  
+Olivia Leighton (Sports Information Director)  
+Peter Janosky  
+Raphael de Chassy  
+Tarne Lamp (JAA)  
+Theo Hamm (Captain)  
+Zev Schwab  
+
