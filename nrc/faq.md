@@ -2,6 +2,13 @@
 title: FAQ
 layout: nrc
 ---
+
+Q: Is the club meeting in person this semester (Spring 2022)?
+
+A: Yes! The club is meeting in person this semester covid permitting. We will let you know if anything changes. 
+
+---
+
 Q: Is it too late to join?
 
 A: It’s never too late!
