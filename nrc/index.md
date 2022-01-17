@@ -8,7 +8,7 @@ Northeastern Recreational Climbing (NRC) is an inclusive student organization de
 
 [Click Here](https://neu.campuslabs.com/engage/organization/northeastern-rec-climbing) to join our email list and visit our Engage page!
 
-The club will have our first official meeting on Monday January 24, 2022 6-7 PM @ 106 West Village G 
+The club will have our first official meeting on Monday January 24, 2022 6-7 PM @ 106 West Village G. 
 
 We encourage all of our memebers to take advantage of our [Slack](https://join.slack.com/t/nurecclimbing/shared_invite/enQtMjk1MDgxNzE5MjgzLTU1ZGIzZDIyZDM2NTY1YmJmZjQ4NTU3ZWM1NTdjNGVmNmRjN2EzNGY2YjhmODUxMTZhOTJhMjU1NGQ1MjY3ZjM) to get to know the other climbers in the Northeastern community. In terms of the COVID-19 pandemic, the club is following the rules and guidelines set forth by the University, the city of Boston, and all the climbing gyms.
 
