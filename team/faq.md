@@ -45,6 +45,6 @@ Dark Horse and Blackout Boulder Brawl.
 
 Q: How often does the team practice?
 
-A: We plan to have 3-4 practices per week. Exact dates have not yet 
-been set for the 2021-2022 season. Potential members should be prepared 
+A: We have 3-4 practices per week. Exact dates have not yet 
+been set for the 2022-2023 season. Potential members should be prepared 
 to attend at least 3 practices per week.
