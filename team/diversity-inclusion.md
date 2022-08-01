@@ -4,12 +4,12 @@ layout: team
 ---
 
 As a team in a cis and white-dominated sport, the Northeastern Climbing Team prioritizes diversity 
-and inclusion. We stand by the LGBTQIA+ Black Lives Matter movement. We support those on the 
+and inclusion. We stand by the LGBTQIA+ and Black Lives Matter movement. We support those on the 
 frontlines protesting and demanding the justice that is long overdue.
 
 We recognize that the outdoor industry is not always outwardly inclusive, and The Northeastern
 Climbing Team wants to listen and learn about how—as a team and as a sport—we can work towards
-anti-racism, homophobia, etc. not just right now, but forever. We wish to cultivate an environment 
+anti-discrimination, not just right now, but forever. We wish to cultivate an environment 
 in which anyone who wants to climb can— regardless of their identity or background. We encourage our
 teammates, competitors, climbing gyms and institutions to join us in recognizing and dismantling
 the accessibility boundaries that are an incredibly exclusive part of our sport.
@@ -17,7 +17,6 @@ the accessibility boundaries that are an incredibly exclusive part of our sport.
 Our efforts to address this privelege and lack of diversity include:
 * Partnering with local organizations that support youth accessibility to climbing in the greater
 Boston Area.
-* Incorporating anti-racism training into our orientation
 * Facilitating these discussions continually going forward and listening to BIPOC within our
 industry.
 
