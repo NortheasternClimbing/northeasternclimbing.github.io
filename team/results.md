@@ -2,7 +2,7 @@
 title: Results
 layout: team
 ---
-![Nationals Roster 2022](/images/natty 2022 roster.png)
+![Nationals Roster 2022](/images/natty_2022_roster.png)
 
 ## 2022 Nationals - Bridgeport, PA
 * Team
