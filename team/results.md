@@ -4,6 +4,48 @@ layout: team
 ---
 ![Locals 2017 podium group](/images/locals_podium_2017.jpg)
 
+## 2022 Nationals - Bridgeport, PA
+* Team
+  * Boulder - 9th
+  * Sport - 20th
+  * Speed - 6th
+
+* Individual
+  * Elana Von der Heyden - Sport, Boulder (Female)
+  * Brynn Thomas - Bouldering (Female)
+  * Kaitlyn Guay - Bouldering, Sport, Speed (Female)
+  * Alex Plotnikoff - Sport (Female)
+  * Nina Paprocki - Sport, Speed (Female)
+  * Jack Czenzak - Bouldering (Male)
+  * Theo Hamm - Bouldering, Sport (Male)
+  * Zev Schwab - Bouldering, Sport (Male)
+
+## 2022 Divisionals - Everett, MA
+* Team
+  * Overall - 3rd
+
+* Individual Boulder
+  * Jack Czensak - 8th (Male)
+  * Elana Von der Heyden - 10th (Female)
+  * Brynn Thomas - 11th (Female)
+  * Theo Hamm - 11th (Male)
+  * Zev Schwab - 12th (Male)
+  * Kaitlyn Guay - 13th (Female)
+ 
+
+* Individual Sport
+  * Alex Plotnikoff - 5th (Female)
+  * Elana Von der Heyden - 6th (Female)
+  * Theo Hamm - 7th (Male)
+  * Kaitlyn Guay - 10th (Female)
+  * Nina Paprocki - 12th (Female)
+  * Zev Schwab - 13th (Male)
+
+## 2022 Youth Nationals - Chicago, IL
+
+* Individual
+  * Jack Czenzak - (Male)
+
 ## 2017 Locals - Cambridge, MA
 
 * Individual
