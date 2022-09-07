@@ -4,7 +4,7 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2021 Fall Tryouts Sign Up Info
+## 2022 Fall Tryouts Sign Up Info
 
 Come try out for the Northeastern Club Rock Climbing Team!
 We are a competitive team that trains and competes at both the local and national level.
@@ -14,10 +14,10 @@ trying out on ropes or boulders.
 
 **Tryout Dates:**       
 
-Thursday, September 23rd : 7PM – 9PM (Bouldering)  
-Friday, September 24th : 7PM – 9PM (Ropes)   
-Saturday, September 25th : 4PM – 6PM (Bouldering)   
-Sunday, September 26th : 12PM – 2PM (Ropes)   
+Thursday, September 15th : 7PM – 9PM (Bouldering)  
+Friday, September 16th : 7PM – 9PM (Ropes)   
+Saturday, September 17th : 4PM – 6PM (Bouldering)   
+Sunday, September 18th : 12PM – 2PM (Ropes)   
 
 **Registration Process**
 
@@ -28,9 +28,13 @@ Sunday, September 26th : 12PM – 2PM (Ropes)
 3. Fill out a DoSportsEasy application by going to the below link,
 and selecting "Rock Climbing"
    <https://web.northeastern.edu/clubsports/register/>
-4. Show up to Renaissance Garage 1 hour BEFORE the listed start time
+4. Pay the 15$ tryout fee (includes a day pass) on the due's portal at 
+https://commerce.cashnet.com/SFCSA. Navigate to Club Sports -> Club sports - COED
+-> Rock Climbing Fundraising -> enter $15.00 and pay. You will get an email receipt
+to show at tryouts
+5. Show up to Renaissance Garage 1 hour BEFORE the listed start time
 (so if you're going to a 7pm tryout, show up at Renaissance at 6pm)
-with your $10 cash tryout fee in hand!
+with your $15 already paid on the due's portal!
 
 Questions? Reach out to us via email at northeasternclimbing@gmail.com.
 
