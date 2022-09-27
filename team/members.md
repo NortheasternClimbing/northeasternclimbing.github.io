@@ -14,21 +14,21 @@ We have a roster of 12 men and 12 women. Here is our executive board for the 202
 * Tarne Lamp   (President)
 
 Our Roster:
-Adam Feins
-Alex Plotnikoff
-Alliosn Cross
-Anja Clark
-Chris Kuang
-Ethan Leee
-Exra Howe
-Ian Cummings
-Kaitlyn Guay
-Maddie Porter
-Michael Wang
-Mina Pricer-Coan
-Miya Iwashita
-Nina Paprocki
-Peter Janosky
-Sophia Pirie
-TJ Marks
-Zev Schwab
+* Adam Feins
+* Alex Plotnikoff
+* Allison Cross
+* Anja Clark
+* Chris Kuang
+* Ethan Leee
+* Ezra Howe
+* Ian Cummings
+* Kaitlyn Guay
+* Maddie Porter
+* Michael Wang
+* Mina Pricer-Coan
+* Miya Iwashita
+* Nina Paprocki
+* Peter Janosky
+* Sophia Pirie
+* TJ Marks
+* Zev Schwab
