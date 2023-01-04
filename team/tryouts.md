@@ -4,26 +4,23 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2022 Fall Tryouts Sign Up Info
+## 2023 Spring Tryouts Sign Up Info
 
 Come try out for the Northeastern Club Rock Climbing Team!
 We are a competitive team that trains and competes at both the local and national level.
 
-Tryouts will be scored in a redpoint format. Climbers have the option of
-trying out on ropes or boulders.
+Tryouts will be scored in a redpoint format. Climbers will try out in ropes due to limited tryout spots.
 
 **Tryout Dates:**       
 
-Thursday, September 15th : 7PM – 9PM (Bouldering)  
-Friday, September 16th : 7PM – 9PM (Ropes)   
-Saturday, September 17th : 4PM – 6PM (Bouldering)   
-Sunday, September 18th : 12PM – 2PM (Ropes)   
+Saturday, January 14th : 10AM – 12PM 
+ 
 
 **Registration Process**
 
-1. Register with CRG to attend one of the four tryout dates at this link
-   <https://centralrockgym.com/randolph/climbing/north-eastern-tryouts/>
-2. Fill out a CRG gym waiver if you've never climbed at CRG Randolph before
+1. Register with CRG to attend tryouts at this link
+   <https://app.rockgympro.com/b/widget/?a=offering&offering_guid=a73145d284814b1f9248ea4cc57feede&random=63b4e4d59355a&iframeid=&mode=p)>
+2. Fill out a CRG gym waiver if you've never climbed at CRG before
    <https://centralrockgym.com/randolph/gyms-waiver/>
 3. Fill out a DoSportsEasy application by going to the below link,
 and selecting "Rock Climbing"
@@ -32,11 +29,9 @@ and selecting "Rock Climbing"
 https://commerce.cashnet.com/SFCSA. Navigate to Club Sports -> Club sports - COED
 -> Rock Climbing Fundraising -> enter $15.00 and pay. You will get an email receipt
 to show at tryouts
-5. Show up to Renaissance Garage 1 hour BEFORE the listed start time
-(so if you're going to a 7pm tryout, show up at Renaissance at 6pm)
-with your $15 already paid on the due's portal!
+5. Show up to Central ROck Gym Fenway (Accessible via public tranist on the T, bus, and within walking distance of campus).
 
-Questions? Reach out to us via email at northeasternclimbing@gmail.com.
+Questions? Reach out to us via email at northeasternclimbing@gmail.com or on Instagram @northeasternclimbing
 
 ## General Info
 
