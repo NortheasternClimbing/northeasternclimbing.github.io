@@ -20,8 +20,9 @@ Saturday, January 14th : 10AM – 12PM
 
 1. Register with CRG to attend tryouts at this link
    <https://app.rockgympro.com/b/widget/?a=offering&offering_guid=a73145d284814b1f9248ea4cc57feede&random=63b4e4d59355a&iframeid=&mode=p)>
-2. Fill out a CRG gym waiver if you've never climbed at CRG Fenway before
+2. Fill out a CRG gym waiver and bouldering orientation form if you've never climbed at CRG Fenway before
    <https://centralrockgym.com/fenway/waiver/>
+   <https://centralrockgym.com/fenway/orientation-form/>
 3. Fill out a DoSportsEasy application by going to the below link,
 and selecting "Rock Climbing"
    <https://web.northeastern.edu/clubsports/register/>
