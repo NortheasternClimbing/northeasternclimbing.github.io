@@ -9,7 +9,7 @@ layout: team
 Come try out for the Northeastern Club Rock Climbing Team!
 We are a competitive team that trains and competes at both the local and national level.
 
-Tryouts will be scored in a redpoint format. Climbers will try out in bouldering only due to limited tryout spots.
+Tryouts will be scored in a modified redpoint format. Climbers will try out in bouldering only due to limited tryout spots.
 
 **Tryout Dates:**       
 
