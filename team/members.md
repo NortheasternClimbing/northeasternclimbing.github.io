@@ -10,25 +10,25 @@ We have a roster of 12 men and 12 women. Here is our executive board for the 202
 * Elana von der Heyden  (Captain)
 * Jack Czenszak (Captain)  
 * Jim Howe  (Vice President)
-* Liam Scott  (Junior Administrative Assistant)
+* TJ Marks  (Junior Administrative Assistant)
 * Tarne Lamp   (President)
 
 Our Roster:
 * Adam Feins
 * Alex Plotnikoff
-* Allison Cross
 * Anja Clark
 * Chris Kuang
-* Ethan Leee
+* Ethan Lee
 * Ezra Howe
-* Ian Cummings
+* Jackie Daniel
 * Kaitlyn Guay
-* Maddie Porter
-* Michael Wang
+* Liam Scott
 * Mina Pricer-Coan
 * Miya Iwashita
 * Nina Paprocki
+* Olivia Leighton
 * Peter Janosky
 * Sophia Pirie
-* TJ Marks
+* Souren Prakash
+* Vinny Mexas
 * Zev Schwab
