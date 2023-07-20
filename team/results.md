@@ -4,21 +4,43 @@ layout: team
 ---
 ![Nationals Roster 2022](/images/natty_2022_roster.png)
 
+## 2023 Nationals - Colorado Springs, CO
+* Team
+  * Boulder - 9th
+  * Sport - 9th
+  * Speed - 8th
+
+---
+
+## 2023 Divisionals - Littleton, MA
+* Team
+  * Boulder - 3rd
+  * Sport - 2nd
+ 
+* Individual Boulder
+  * Jack Czenszak - 6th (Male)
+  * Elana Von der Heyden - 6th (Female)
+  * Kaitlyn Guay - 8th (Female)
+  * TJ Marks - 9th (Male)
+  * Zev Schwab - 12th (Male)
+
+* Individual Sport
+  * Alex Plotnikoff - 5th (Female)
+  * Zev Schwab - 5th (Male)
+  * TJ Marks - 8th (Male)
+  * Elana Von der Heyden - 10th (Female)
+  * Kaitlyn Guay - 10th (Female)
+  * Chris Kuang - 10th (Male)
+
+---
+
 ## 2022 Nationals - Bridgeport, PA
 * Team
   * Boulder - 9th
   * Sport - 20th
   * Speed - 6th
 
-* Individual
-  * Elana Von der Heyden - Sport, Boulder (Female)
-  * Brynn Thomas - Bouldering (Female)
-  * Kaitlyn Guay - Bouldering, Sport, Speed (Female)
-  * Alex Plotnikoff - Sport (Female)
-  * Nina Paprocki - Sport, Speed (Female)
-  * Jack Czenzak - Bouldering (Male)
-  * Theo Hamm - Bouldering, Sport (Male)
-  * Zev Schwab - Bouldering, Sport (Male)
+---
 
 ## 2022 Divisionals - Everett, MA
 * Team
@@ -32,7 +54,6 @@ layout: team
   * Zev Schwab - 12th (Male)
   * Kaitlyn Guay - 13th (Female)
  
-
 * Individual Sport
   * Alex Plotnikoff - 5th (Female)
   * Elana Von der Heyden - 6th (Female)
@@ -41,10 +62,14 @@ layout: team
   * Nina Paprocki - 12th (Female)
   * Zev Schwab - 13th (Male)
 
+---
+
 ## 2022 Youth Nationals - Chicago, IL
 
 * Individual
   * Jack Czenzak - (Male)
+
+---
 
 ## 2017 Locals - Cambridge, MA
 
