@@ -4,35 +4,20 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2023 Spring Tryouts Sign Up Info
+## 2023 Fall Tryouts Sign Up Info
 
 Come try out for the Northeastern Club Rock Climbing Team!
-We are a competitive team that trains and competes at both the local and national level.
+We are a competitive team that trains and competes at the local, divisional, and national level.
 
-Tryouts will be scored in a modified redpoint format. Climbers will try out in bouldering only due to limited tryout spots.
+Tryouts will be scored in a redpoint format for both the boulder and sport disciplines.
 
 **Tryout Dates:**       
 
-Saturday, January 14th : 10AM – 12PM 
- 
+Fall tryout dates will be announced soon!
 
 **Registration Process**
 
-1. Register with CRG to attend tryouts at this link
-   <https://app.rockgympro.com/b/widget/?a=offering&offering_guid=a73145d284814b1f9248ea4cc57feede&random=63b4e4d59355a&iframeid=&mode=p)>
-2. Fill out a CRG gym waiver and bouldering orientation form if you've never climbed at CRG Fenway before
-   <https://centralrockgym.com/fenway/waiver/>
-   <https://centralrockgym.com/fenway/orientation-form/>
-3. Fill out a DoSportsEasy application by going to the below link,
-and selecting "Rock Climbing"
-   <https://web.northeastern.edu/clubsports/register/>
-4. Pay the 15$ tryout fee (includes a day pass) on the due's portal at 
-https://commerce.cashnet.com/SFCSA. Navigate to Club Sports -> Club sports - COED
--> Rock Climbing Fundraising -> enter $15.00 and pay. You will get an email receipt
-to show at tryouts
-5. Show up to Central ROck Gym Fenway (Accessible via public tranist on the T, bus, and within walking distance of campus).
-
-Questions? Reach out to us via email at northeasternclimbing@gmail.com or on Instagram @northeasternclimbing
+Registration information will be announced soon!
 
 ## General Info
 
@@ -46,9 +31,6 @@ boulders or on ropes.
 In the spring, we host limited tryouts, only to fill the roster spots
 of teammates who have graduated or are leaving to go on a co-op or dialogue. 
 These tryouts feature exclusively boulders.
-
-Follow us on [Facebook](https://www.facebook.com/northeasternclimbing/) and [Instagram](https://www.instagram.com/northeasternclimbing/)
-to stay in the loop about tryouts!
 
 ## Tryouts FAQ
 
@@ -76,4 +58,4 @@ A: You should definitely try out! It’s a great way to meet other enthusiastic 
 
 ---
 
-We are so psyched for the season and we hope to see you at tryouts!
+Still have questions? Reach out to us via email at northeasternclimbing@gmail.com or [@northeasternclimbing](https://www.instagram.com/northeasternclimbing/) on Instagram!
