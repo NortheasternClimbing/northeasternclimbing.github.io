@@ -35,7 +35,7 @@ Here are the registration instructions. There is a tryout fee of $15. **Please o
    3. [Request transportation for Saturday, September 16, at 11:00 am](https://forms.gle/ey4EoTsuXF88HGfJ9)
 3. To register for a tryout session, follow **one** of the links below and fill out the attached forms. Even if you already have a valid waiver for the Central Rock Gym chain, please fill out another one; **we will use waiver sign-ups through the links below to track registration**.
    1. [Register for Bouldering tryouts on Thursday, September 14, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/2d1298ef040d4706909ae5634df0e57e)
-   2. [Register for Bouldering tryouts on Friday, September 15, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/0a35948fe0f2427197279129e5fc1092)
+   2. [Register for Ropes tryouts on Friday, September 15, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/0a35948fe0f2427197279129e5fc1092)
    3. [Register for Bouldering tryouts on Saturday, September 16, from 11:00 am to 3:00 pm](https://app.rockgympro.com/booking/f/6474ef009f274e368a5519c6db48e3b9)
 4. Pay the $15 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
