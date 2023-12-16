@@ -20,7 +20,7 @@ Transportation to tryouts will **not** be provided. However, the Red line, 1 bus
 
 **Registration Process**
 
-Here are the registration instructions. There is a tryout fee of $15. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com
+Here are the registration instructions. There is a tryout fee of $15. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on instagram.
 
 1. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
