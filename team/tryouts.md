@@ -9,35 +9,30 @@ layout: team
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level.
 
-Tryouts will be scored in a redpoint format for both the boulder and ropes disciplines. Each tryout session will include a 2-hour climbing period.
-
-_Disclaimer_: If you would like to try out during a ropes session, you are _strongly_
-encouraged to be proficient at lead-climbing.
+Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Spring semester**. 
 
 **Tryout Dates:**       
 
-Tryouts will be held at Central Rock Gym, Randolph. There will be three Fall tryout sessions:
-* Bouldering session on Thursday, September 14, 6:00 pm to 10:00 pm.
-* Ropes session on Friday, September 15, 6:00 pm to 10:00 pm.
-* Bouldering session on Saturday, September 16, 11:00 am to 3:00 pm.
+Tryouts will be held at Central Rock Gym, Harvard Square:
+* Saturday, January 13, 10:30 am to 12:30 pm.
 
-Each 4-hour tryout period includes a 1-hour period for traveling from the Northeastern campus to Central Rock Gym, Randolph, and warming up, a 2-hour climbing period, and a 1-hour period for returning to the Northeastern campus.
+Transportation to tryouts will **not** be provided. However, the Red line, 1 bus, and 66 bus all are easily accessible from Northeastern campus and go directly to Harvard Square. 
 
 **Registration Process**
 
-Here are the registration instructions. There is a tryout fee of $15. **Please only register for one tryout date**. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com
+Here are the registration instructions. There is a tryout fee of $15. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com
 
 1. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
-2. If you require transportation to Central Rock Gym, Randolph, please fill out a transportation request form for your tryout date. Van spots are limited, so the Google Forms will be disabled once enough participates have requested a van spot. **Vans will depart from  Renaissance Park Garage** for tryouts at the listed tryout time. If you plan to transport yourself to tryouts, the climbing period will begin 1 hour after vans depart from Renaissance garage. That is, if your tryout is at 6:00 pm, the climbing period will begin at 7:00 pm and conclude at 9:00 pm. Request transportation here:
+<!--2. If you require transportation to Central Rock Gym, Randolph, please fill out a transportation request form for your tryout date. Van spots are limited, so the Google Forms will be disabled once enough participates have requested a van spot. **Vans will depart from  Renaissance Park Garage** for tryouts at the listed tryout time. If you plan to transport yourself to tryouts, the climbing period will begin 1 hour after vans depart from Renaissance garage. That is, if your tryout is at 6:00 pm, the climbing period will begin at 7:00 pm and conclude at 9:00 pm. Request transportation here:
    1. [Request transportation for Thursday, September 14, at 6:00 pm](https://forms.gle/qiap1ZA6EgcUiRcV9)
    2. [Request transportation for Friday, September 15, at 6:00 pm](https://forms.gle/kTzKnDBDp7ohqmvw8)
-   3. [Request transportation for Saturday, September 16, at 11:00 am](https://forms.gle/ey4EoTsuXF88HGfJ9)
-3. To register for a tryout session, follow **one** of the links below and fill out the attached forms. Even if you already have a valid waiver for the Central Rock Gym chain, please fill out another one; **we will use waiver sign-ups through the links below to track registration**.
-   1. [Register for Bouldering tryouts on Thursday, September 14, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/2d1298ef040d4706909ae5634df0e57e)
-   2. [Register for Ropes tryouts on Friday, September 15, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/0a35948fe0f2427197279129e5fc1092)
-   3. [Register for Bouldering tryouts on Saturday, September 16, from 11:00 am to 3:00 pm](https://app.rockgympro.com/booking/f/6474ef009f274e368a5519c6db48e3b9)
-4. Pay the $15 tryout fee through the Northeastern Club Sports dues portal:
+   3. [Request transportation for Saturday, September 16, at 11:00 am](https://forms.gle/ey4EoTsuXF88HGfJ9)-->
+2. To register for a tryout session, follow the link below and fill out the attached forms. Even if you already have a valid waiver for the Central Rock Gym chain, please fill out another one; **we will use waiver sign-ups through the links below to track registration**.
+   1. [Register for tryouts on Saturday, January 13, 10:30 am to 12:30 pm](https://app.rockgympro.com/b/widget/?a=offering&offering_guid=f2a4152820dc4a439364775c5b1943d7&limited_to_course_guid_for_offering_guid_f2a4152820dc4a439364775c5b1943d7=17885b82ad26e71b7035b2b769a7439f141c40d4&random=657df9b6ab062&iframeid=&mode=p)
+   <!--2. [Register for Ropes tryouts on Friday, September 15, from 6:00 pm to 10:00 pm](https://app.rockgympro.com/booking/f/0a35948fe0f2427197279129e5fc1092)
+   3. [Register for Bouldering tryouts on Saturday, September 16, from 11:00 am to 3:00 pm](https://app.rockgympro.com/booking/f/6474ef009f274e368a5519c6db48e3b9)-->
+3. Pay the $15 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
    2. Click "Club Sports" and, on the next page, "Club Sports - Co-ed."
    3. Scroll down to "Rock Climbing Dues" and click "View details."
