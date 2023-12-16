@@ -16,7 +16,7 @@ Tryouts will be scored in a redpoint bouldering format to fill in our roster spo
 Tryouts will be held at Central Rock Gym, Harvard Square:
 * Saturday, January 13, 10:30 am to 12:30 pm.
 
-Transportation to tryouts will **not** be provided. However, the Red line, 1 bus, and 66 bus all are easily accessible from Northeastern campus and go directly to Harvard Square. 
+Transportation to tryouts will not be provided. However, the Red line, 1 bus, and 66 bus all are easily accessible from Northeastern campus and go directly to Harvard Square. 
 
 **Registration Process**
 
