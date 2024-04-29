@@ -3,7 +3,7 @@ layout: landing
 ---
 # Competitive Team
 
-![The Northeastern Climbing Team](/images/full_team_2022.png)
+![The Northeastern Climbing Team](/images/FullSmile24.jpg)
 
 The Northeastern Climbing Team is Northeastern's officially
 sanctioned club sports team for climbing at Northeastern.
