@@ -9,7 +9,7 @@ layout: team
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level through USA Climbing's Collegiate Series.
 
-Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Fa;l semester**. 
+Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Fall semester**. 
 
 **Tryout Dates:**       
 
