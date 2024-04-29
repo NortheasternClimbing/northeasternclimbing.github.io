@@ -33,7 +33,7 @@ both.
 Q: Where do you practice?
 
 A: We practice at Central Rock Gym (CRG)’s gyms in Watertown, Cambridge, 
-Stoneham, and Randolph.
+and Stoneham.
 
 ---
 
