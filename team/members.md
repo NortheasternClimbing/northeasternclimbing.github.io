@@ -2,33 +2,17 @@
 title: Members
 layout: team
 ---
-![The Northeastern Climbing Team](/images/casual_team_pic.jpeg)
+![The Northeastern Climbing Team](/images/FullPoint24.jpg)
 
-We have a roster of 12 men and 12 women. Here is our executive board for the 2022-2023 season:
+We have a roster of 12 men and 12 women. Here is our executive board for the 2024-2025 season:
 
+* TJ Marks  (President)
+* Julian Bresler  (Vice President)
 * Brynn Thomas  (Treasurer)
-* Elana von der Heyden  (Captain)
-* Jack Czenszak (Captain)  
-* Jim Howe  (Vice President)
-* TJ Marks  (Junior Administrative Assistant)
-* Tarne Lamp   (President)
+* Alex Plotnikoff  (Captain)
+* Zev Schwab (Captain)  
+* Clara Johnson   (Junior Administrative Assistant)
 
 Our Roster:
-* Adam Feins
-* Alex Plotnikoff
-* Anja Clark
-* Chris Kuang
-* Ethan Lee
-* Ezra Howe
-* Jackie Daniel
-* Kaitlyn Guay
-* Liam Scott
-* Mina Pricer-Coan
-* Miya Iwashita
-* Nina Paprocki
-* Olivia Leighton
-* Peter Janosky
-* Sophia Pirie
-* Souren Prakash
-* Vinny Mexas
-* Zev Schwab
+* To Be Announced After Fall Tryouts!
+For an opportunity to be a part of this list tryout information can be found here
