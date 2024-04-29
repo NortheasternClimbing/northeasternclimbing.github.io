@@ -10,9 +10,9 @@ sanctioned club sports team for climbing at Northeastern.
 
 We hold full tryouts in the fall as well as limited tryouts in the
 spring. We maintain a roster of 24 climbers (12 male, 12 female) and
-compete through USA Climbing's Collegiate series. Each year we
-compete at Collegiate Nationals, where we have consistently scored as
-a top ten team.
+compete through USA Climbing's Collegiate series. We have maintain a 
+strong competitive presence with 15 (out of 24) members qualifying 
+for USAC Collegiate Nationals this season!
 
 [Click here](/team) for more information.
 
