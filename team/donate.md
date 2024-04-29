@@ -2,7 +2,7 @@
 title: Donate
 layout: team
 ---
-![The Northeastern Climbing Team](/images/fun_photoshoot_full_team.png)
+![The Northeastern Climbing Team](/images/FullGoofy24.jpg)
 
 To continue to be competitive on a national and international level, the Northeastern Climbing Team relies on individual donations to help fund travel expenses. Costs of travel are high and our members are students who are already financing their own collegiate education. Please consider donating to our team. Any amount is more than welcome!
 
