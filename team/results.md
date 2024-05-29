@@ -2,7 +2,7 @@
 title: Results
 layout: team
 ---
-![Nationals Roster 2022](/images/NattisCollage24.jpg)
+![Nationals Roster 2022](/images/Nattis24Collage.jpg)
 
 ## 2023 Nationals - Colorado Springs, CO
 * Team
