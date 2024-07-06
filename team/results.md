@@ -4,6 +4,47 @@ layout: team
 ---
 ![Nationals Roster 2022](/images/Nattis24Collage.jpg)
 
+## 2024 Nationals - Gilbert, AZ
+* Team
+  * Boulder - 10th
+  * Sport - 5th
+    
+---
+
+## 2024 CNQE 2 - Everett, MA
+* Individual Boulder ADV
+  * Brynn Thomas - 1st (Female)
+  * Alex Plotnikoff - 3rd (Female)
+  * Thalia Christoforatos - 5th (Female)
+  * Jack Czenszak - 5th (Male)
+  
+* Individual Sport ADV
+  * TJ Marks - 1st (Male)
+  * Zev Schwab - 3rd (Male)
+  * Elana Von der Heyden - 3rd (Female)
+  * Sophia Pirie - 5th (Female)
+
+---
+
+## 2024 CNQE 1 - Littleton, MA
+* Individual Boulder ADV
+  * Julian Bresler - 1st (Male)
+  * Nina Paprocki - 2nd (Female)
+
+* Individual Boulder INT
+  * Joseph Griffin - 1st (Male)
+  * Lillian Clark - 4th (Female)
+  
+* Individual Sport ADV
+  * Christopher Kuang - 1st (Male)
+  * Clara Johnson - 5th (Female)
+  * Alex Ma - 5th (Male)
+
+* Individual Sport INT
+  * Joseph Griffin - 1st (Male)
+ 
+---
+
 ## 2023 Nationals - Colorado Springs, CO
 * Team
   * Boulder - 9th
