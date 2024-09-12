@@ -32,6 +32,7 @@ Here are the registration instructions. There is a tryout fee of $20. If you mak
    3. Scroll down to "Rock Climbing Dues" and click "View details."
    4. Enter in $20.00 and complete the checkout process.
    5. You will be emailed a receipt of your payment. Please be prepared to show a climbing team E-board member this receipt (as proof of paying the registration fee) at your tryout event.
+   6. Please email your receipt / proof of payment, to our treasurer at thomas.br@northeastern.edu
 
 ## General Info
 
@@ -74,7 +75,7 @@ A: You should definitely try out! It’s a great way to meet other enthusiastic 
 
 Q: CRG Randolph is a little far and I don't have a car, what should I do?
 
-A: Fortunately we provide transportation to fall tryouts via the Northeastern Club Sports Vans. When you register for tryouts you are reserving your spot in these vans.
+A: Fortunately we provide transportation to fall tryouts via the Northeastern Club Sports Vans. When you register for tryouts you are reserving your spot in these vans. We be leaving from Renaissance Garage at 6:00pm on Thursday and Friday, returning around 9:30pm and 11:00am on Saturday, returning around 2:30pm!
 
 ---
 
