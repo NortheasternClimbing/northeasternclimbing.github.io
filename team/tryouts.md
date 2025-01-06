@@ -4,19 +4,17 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2024 Fall Tryouts Info
+## 2025 Spring Tryouts Info
 
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level through USA Climbing's Collegiate Series.
 
-Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Fall semester**. 
+Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Spring semester**. 
 
-**Tryout Dates:**       
+**Tryout Date:**       
 
-Tryouts will be held at Central Rock Gym Randolph on these dates:
-* **Bouldering:** Thursday 9/12 (_6:00PM - 9:30PM_) 
-* **Ropes:** Friday 9/13 (_6:00PM - 9:30PM_) 
-* **Bouldering:** Saturday 9/14 (_11:00AM - 2:30PM_) 
+Tryouts will be held at Central Rock Gym Fenway on this date:
+* **Bouldering:** Sunday 1/12 (_10:00AM - 12:00PM_) 
 
 **Registration Process**
 
@@ -24,9 +22,7 @@ Here are the registration instructions. There is a tryout fee of $20. If you mak
 
 1. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
-2. To register for a tryout session, follow the link below and fill out the attached forms. Even if you already have a valid waiver for the Central Rock Gym chain, please fill out another one; **we will use waiver sign-ups through the links below to track registration**.
-   1. [CRG Randolph Waiver / Sign Ups Page](https://centralrockgym.com/randolph/climbing/north-eastern-tryouts/)
-3. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
+2. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
    2. Click "Club Sports" and, on the next page, "Club Sports - Co-ed."
    3. Scroll down to "Rock Climbing Dues" and click "View details."
