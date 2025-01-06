@@ -22,7 +22,8 @@ Here are the registration instructions. There is a tryout fee of $20. If you mak
 
 1. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
-2. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
+2. Complete a [waiver](https://centralrockgym.com/fenway/gyms-waiver/) for Central Rock Gym Fenway 
+3. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
    2. Click "Club Sports" and, on the next page, "Club Sports - Co-ed."
    3. Scroll down to "Rock Climbing Dues" and click "View details."
