@@ -9,12 +9,16 @@ layout: team
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level through USA Climbing's Collegiate Series.
 
-Tryouts will be scored in a redpoint bouldering format to fill in our roster spots for the **Fall and Spring semesters**. 
+Tryouts will be scored in a redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
 
-**Tryout Date:**       
+**Tryout Dates:**       
 
-Tryouts will be held at Central Rock Gym Fenway on this date:
-* **Bouldering:** Sunday 1/12 (_10:00AM - 12:00PM_) 
+Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following dates: 
+
+
+(Transportation will be included)
+* Thursday 9/11 (_7:00PM - 9:00PM_)
+* Saturday 9/13 (_12:00PM - 2:00PM_)
 
 **Registration Process**
 
