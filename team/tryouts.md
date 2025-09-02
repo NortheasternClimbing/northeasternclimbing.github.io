@@ -9,7 +9,9 @@ layout: team
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level through USA Climbing's Collegiate Series.
 
-Tryouts will be scored in a redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
+Tryouts will be scored in a boulder redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
+
+Come find us at Fall Fest in World Series Way!!
 
 **Tryout Dates:**       
 
@@ -24,16 +26,16 @@ Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following da
 
 Here are the registration instructions. There is a tryout fee of $20. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on [Instagram](https://www.instagram.com/northeasternclimbing/?utm_source=ig_web_button_share_sheet).
 
-1. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
+1. Complete the form: https://forms.gle/cJgg9G6hTB8coALW8 which includes the steps listed below.
+2. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
-2. Complete a [waiver](https://centralrockgym.com/fenway/gyms-waiver/) for Central Rock Gym Fenway 
-3. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
+3. Complete a [waiver](https://centralrockgym.com/fenway/gyms-waiver/) for Central Rock Gym Fenway 
+4. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
    2. Click "Club Sports" and, on the next page, "Club Sports - Co-ed."
    3. Scroll down to "Rock Climbing Dues" and click "View details."
    4. Enter in $20.00 and complete the checkout process.
    5. You will be emailed a receipt of your payment. Please be prepared to show a climbing team E-board member this receipt (as proof of paying the registration fee) at your tryout event.
-   6. Please email your receipt / proof of payment, to our treasurer at thomas.br@northeastern.edu
 
 ## General Info
 
@@ -41,8 +43,8 @@ The climbing team hosts tryouts for the team in the Fall and in the
 Spring.
 
 In the fall, all 24 of our rosters spots (12 male, 12 female)
-are open to everybody trying out. Climbers can choose to try out on
-boulders or on ropes.
+are open to everybody trying out. Climbers will exlusively try out in a boulder
+competition format.
 
 In the spring, we host limited tryouts, only to fill the roster spots
 of teammates who have graduated or are leaving to go on a co-op or dialogue. 
