@@ -11,7 +11,7 @@ We are a competitive team that trains and competes at the local, divisional, and
 
 Tryouts will be scored in a boulder redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
 
-Come find us at Fall Fest in World Series Way!!
+Come find us at Fall Fest in World Series Way Table 114!!
 
 **Tryout Dates:**       
 
