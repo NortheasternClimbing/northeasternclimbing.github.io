@@ -11,14 +11,11 @@ We are a competitive team that trains and competes at the local, divisional, and
 
 Tryouts will be scored in a boulder redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
 
-Come find us at Fall Fest in World Series Way Table 114!!
 
 **Tryout Dates:**       
 
-Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following dates: 
+Tryouts will be held at Central Rock Gym Fenway on Saturday 1/10 (10:00AM - 1:00PM)
 
-
-(Transportation will be included)
 * Thursday 9/11 (_7:00PM - 9:00PM_)
 * Saturday 9/13 (_12:00PM - 2:00PM_)
 
@@ -26,7 +23,7 @@ Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following da
 
 Here are the registration instructions. There is a tryout fee of $20. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on [Instagram](https://www.instagram.com/northeasternclimbing/?utm_source=ig_web_button_share_sheet).
 
-1. Complete the form: https://forms.gle/cJgg9G6hTB8coALW8 which includes the steps listed below.
+1. Complete the form: https://docs.google.com/forms/d/e/1FAIpQLSe7R1AE_vFABM7CjDZru-bkgIFLGnohZqNc_YQoBtZvOrEM7A/viewform which includes the steps listed below.
 2. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
 3. Complete a [waiver](https://centralrockgym.com/fenway/gyms-waiver/) for Central Rock Gym Fenway 
