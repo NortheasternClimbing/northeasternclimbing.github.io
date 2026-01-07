@@ -4,7 +4,7 @@ layout: team
 ---
 ![Two climbers discuss beta](/images/beta.jpg)
 
-## 2025 Fall Tryouts Info
+## 2026 Spring Tryouts Info
 
 Come try out for the Northeastern Rock Climbing Team!
 We are a competitive team that trains and competes at the local, divisional, and national level through USA Climbing's Collegiate Series.
