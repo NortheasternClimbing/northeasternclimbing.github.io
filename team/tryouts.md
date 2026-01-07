@@ -17,11 +17,6 @@ Come find us at Fall Fest in World Series Way Table 114!!
 
 Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following dates: 
 
-
-(Transportation will be included)
-* Thursday 9/11 (_7:00PM - 9:00PM_)
-* Saturday 9/13 (_12:00PM - 2:00PM_)
-
 **Registration Process**
 
 Here are the registration instructions. There is a tryout fee of $20. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on [Instagram](https://www.instagram.com/northeasternclimbing/?utm_source=ig_web_button_share_sheet).
