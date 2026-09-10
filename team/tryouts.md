@@ -22,17 +22,17 @@ Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following da
 
 **Registration Process**
 
-Here are the registration instructions. There is a tryout fee of $20. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on [Instagram](https://www.instagram.com/northeasternclimbing/?utm_source=ig_web_button_share_sheet).
+Here are the registration instructions. There is a tryout fee of $10. If you make a mistake during registration, or have any questions, please email us at northeasternclimbing@gmail.com or DM us on [Instagram](https://www.instagram.com/northeasternclimbing/?utm_source=ig_web_button_share_sheet).
 
-1. Complete the form: https://forms.gle/cJgg9G6hTB8coALW8 which includes the steps listed below.
+1. Complete the form: https://forms.gle/LptqAdXXN5eEB5wU6 which includes the steps listed below.
 2. Register for rock climbing on [Northeastern DoSportsEasy](https://neu.dserec.com/online/clubsports_widget/club/27/registration).
    This form is involved—_please_ do it in advance of your tryout date.
 3. Complete a [waiver](https://centralrockgym.com/fenway/gyms-waiver/) for Central Rock Gym Fenway 
-4. Pay the $20 tryout fee through the Northeastern Club Sports dues portal:
+4. Pay the $10 tryout fee through the Northeastern Club Sports dues portal:
    1. Navigate to the [NEU Club Sports and Activities Payment Site](https://commerce.cashnet.com/SFCSA).
    2. Click "Club Sports" and, on the next page, "Club Sports - Co-ed."
    3. Scroll down to "Rock Climbing Dues" and click "View details."
-   4. Enter in $20.00 and complete the checkout process.
+   4. Enter in $10.00 and complete the checkout process.
    5. You will be emailed a receipt of your payment. Please be prepared to show a climbing team E-board member this receipt (as proof of paying the registration fee) at your tryout event.
 
 ## General Info
