@@ -2,7 +2,7 @@
 title: Members
 layout: team
 ---
-![The Northeastern Climbing Team](/images/FullPoint24.jpg)
+![The Northeastern Climbing Team](/images/FullTeam25-26.jpg)
 
 We have a roster of 12 men and 12 women. Here is our executive board for the 2026-2027 season:
 
