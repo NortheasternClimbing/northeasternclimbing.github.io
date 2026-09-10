@@ -11,16 +11,14 @@ We are a competitive team that trains and competes at the local, divisional, and
 
 Tryouts will be scored in a boulder redpoint format to fill in our roster spots for the **Fall and Spring semesters**. 
 
-Come find us at Fall Fest in World Series Way Table 114!!
-
 **Tryout Dates:**       
 
 Tryouts will be held at Central Rock Gym Cambridge (Alewife) on the following dates: 
 
 
 (Transportation will be included)
-* Thursday 9/11 (_7:00PM - 9:00PM_)
-* Saturday 9/13 (_12:00PM - 2:00PM_)
+* Saturday 9/12 (_12:00PM - 2:00PM_)
+* Monday 9/14 (_7:00PM - 9:00PM_)
 
 **Registration Process**
 
@@ -78,7 +76,7 @@ A: You should definitely try out! It’s a great way to meet other enthusiastic 
 
 Q: CRG Randolph is a little far and I don't have a car, what should I do?
 
-A: Fortunately we provide transportation to fall tryouts via the Northeastern Club Sports Vans. When you register for tryouts you are reserving your spot in these vans. We be leaving from Renaissance Garage at 6:00pm on Thursday and Friday, returning around 9:30pm and 11:00am on Saturday, returning around 2:30pm!
+A: Fortunately we provide transportation to fall tryouts via the Northeastern Club Sports Vans. When you register for tryouts you are reserving your spot in these vans. We be leaving from Renaissance Garage 40 minutes prior to each tryout time
 
 ---
 
