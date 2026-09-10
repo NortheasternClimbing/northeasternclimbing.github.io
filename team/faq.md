@@ -24,22 +24,20 @@ A: Yes, we love our grad student team members!
 
 Q: What format are tryouts?
 
-A: Two-tryout formats are used. We hold a redpoint-format ropes competition 
-and a redpoint-format bouldering competition, where tryouts can sign up for
-both.
+A: We hold a redpoint-format bouldering competition
 
 ---
 
 Q: Where do you practice?
 
 A: We practice at Central Rock Gym (CRG)’s gyms in Watertown, Cambridge, 
-and Stoneham.
+and Waltham.
 
 ---
 
 Q: What competitions do you participate in?
 
-A: Our team officially participates in USA Climbing Locals, Divsionals,
+A: Our team officially participates in USA Climbing Locals, Divisionals,
 and Nationals. Additionally, we attend other local competitions like
 the Dark Horse Series, the Movement Boulder Series, and the Blackout 
 Boulder Brawl.
