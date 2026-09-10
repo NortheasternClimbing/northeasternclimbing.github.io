@@ -8,7 +8,7 @@ As a member of the Northeastern Climbing Team, your financial obligations are as
 
 | You pay... | For... |
 | ---------- | ------ |
-| $250/semester | Dues |
+| $325/semester | Dues |
 | ~$300 in spring semester *(highly dependent on location)* | Flights to nationals |
 | $65 | USA Climbing Membership |
 
