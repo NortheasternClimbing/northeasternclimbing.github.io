@@ -14,7 +14,24 @@ We have a roster of 12 men and 12 women. Here is our executive board for the 202
 * Sabrina Lopez   (Junior Administrative Assistant)
 
 Our Roster:
-* 
+* Krish Bhaskara
+* Renata Podlesny
+* Audrey Lindquist
+* Nick Usich
+* Justin Qiu
+* Hannah Zizlsperger
+* Liya Foux
+* Jeffrey Burt
+* Thomas Ang
+* Juri Okamoto
+* Matthew Lee
+* Alexander Kramer
+* Chrissy Chimos
+* Zoey FrazziniKendrick
+* Jack Gore
+* Ryan McSweeney
+* Ethan Miner
+* Ethan Walsh
 
 
 * For an opportunity to be a part of this list tryout information can be found [here](https://northeasternclimbing.github.io/team/tryouts/)
